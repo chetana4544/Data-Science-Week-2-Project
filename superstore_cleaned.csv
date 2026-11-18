@@ -1,0 +1,304 @@
+row_id,order_id,order_date,ship_date,customer_id,customer_name,country,city,state,postal_code,product_id,sub_category,product_name,sales,quantity,discount,profit,ship_mode_FIRST CLASS,ship_mode_First Class,ship_mode_SAME DAY,ship_mode_SECOND CLASS,ship_mode_STANDARD CLASS,ship_mode_Same Day,ship_mode_Second Class,ship_mode_Standard Class,segment_Consumer,segment_Corporate,segment_Home Office,category_Furniture,category_Office Supplies,category_Technology,region_Central,region_East,region_South,region_West
+1,CA-2023-809570,2023-04-25,2023-04-26,고객704,Amit Shah,United States,Seattle,Washington,0.0,TEC-4582,Accessories,Mobile Phone,500.85,4,0.05,96.1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,1,0,0
+2,CA-2023-717889,2023-01-28,2023-02-02,고객928,Olivia Martin,United States,Houston,Texas,60601.0,TEC-6574,Machines,Laptop Stand,1291.11,9,0.2,-152.01,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0
+3,CA-2025-733052,2025-02-20,2025-02-23,고객926,Alex Johnson,United States,Los Angeles,California,92101.0,FUR-7201,Bookcases,Desk Lamp,174.2,2,0.1,24.96,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0
+4,CA-2024-910620,2024-09-25,2024-10-02,고객181,Olivia Martin,United States,Philadelphia,Pennsylvania,90001.0,TEC-5554,Copiers,Laser Printer,1042.62,2,0%,153.01,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0
+5,CA-2024-660086,2024-01-15,2024-01-18,고객267,Emily Brown,United States,  houston  ,Texas,85001.0,FUR-6313,Bookcases,Wooden Bookcase,1208.95,2,0.3,158.36,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,1
+6,CA-2025-429963,2025-04-04,2025-04-07,고객771,Emily Brown,United States,San Antonio,Texas,78701.0,FUR-3340,Tables,Wooden Bookcase,487.79,4,0.3,134.54,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,1,0
+7,CA-2025-518801,2025-02-01,2025-02-06,고객324,James Smith,United States,Dallas,Texas,92101.0,FUR-1771,Bookcases,Wooden Bookcase,478.83,10,0.2,138.24,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0
+8,CA-2023-590785,2023-06-13,2023-06-20,고객666,Olivia Martin,United States,Austin,Texas,78701.0,TEC-9797,Machines,Laser Printer,764.51,2,0.2,-16.08,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0
+9,CA-2023-632342,2023-10-28,2023-11-01,고객991,Michael Miller,United States,Chicago,Illinois,78701.0,FUR-3504,Tables,Wooden Bookcase,821.07,5,0.3,170.11,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,1
+10,CA-2025-480612,2025-03-08,2025-03-13,고객345,Alex Johnson,United States,New York,New York,95101.0,TEC-2403,Copiers,Wireless Mouse,1081.31,8,0.0,-197.75,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0
+11,CA-2025-736059,2025-02-23,2025-02-25,고객316,Robert Davis,United States,Chicago,Illinois,98101.0,TEC-6107,Copiers,Laser Printer,1190.27,9,0.05,-108.27,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1
+12,CA-2024-680828,2024-06-13,2024-06-17,고객702,Priya Patel,United States,Los Angeles,California,90001.0,OFF-4750,Labels,Printer Paper,452.25,2,0.1,-107.35,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,1,0,0
+13,CA-2023-858490,2023-03-14,2023-03-19,고객348,Daniel Taylor,United States,Houston,Texas,78201.0,OFF-2545,Labels,Storage Box,507.03,8,0.05,37.29,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1
+14,CA-2024-777568,2024-03-09,2024-03-13,고객162,Amit Shah,United States,San Diego,California,19103.0,OFF-5073,Paper,Ring Binder,1556.0,1,0.5,221.07,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0
+15,CA-2024-179046,2024-04-04,2024-04-06,고객927,Olivia Martin,United States,San Antonio,Texas,90001.0,TEC-9856,Phones,Wireless Mouse,336.81,8,0.05,92.52,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0
+16,CA-2023-102260,2023-06-20,2023-06-24,고객371,Daniel Taylor,United States,San Diego,California,85001.0,FUR-8973,Chairs,Wooden Bookcase,870.59,7,0.0,-131.65,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,1,0
+17,CA-2023-152578,2023-08-11,2023-08-12,고객614,Olivia Martin,United States,San Jose,California,60601.0,OFF-9320,Labels,Ring Binder,1326.44,1,0.5,-82.02,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0
+18,CA-2024-697347,2024-09-01,2024-09-02,고객692,Unknown,United States,Austin,Texas,95101.0,FUR-7868,Tables,Desk Lamp,1552.38,7,0.0,488.93,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0
+19,CA-2024-414569,2024-11-16,2024-11-22,고객423,Daniel Taylor,United States,Philadelphia,Pennsylvania,0.0,FUR-2638,Bookcases,Wooden Bookcase,435.73,7,0.05,66.67,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,1,0
+20,CA-2023-559469,2023-09-29,2023-10-01,고객726,Daniel Taylor,United States,Philadelphia,Pennsylvania,75201.0,TEC-5905,Phones,Laptop Stand,1586.51,4,0.1,-125.35,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0
+21,CA-2023-852470,2023-04-29,2023-04-30,고객308,Michael Miller,United States,Seattle,Washington,85001.0,OFF-5114,Labels,Printer Paper,999.38,5,0.1,112.83,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0
+22,CA-2024-374680,2024-03-09,2024-03-16,고객859,Emily Brown,United States,Phoenix,Arizona,98101.0,TEC-1158,Phones,Wireless Mouse,,6,0.05,11.51,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,0
+23,CA-2023-233636,2023-06-02,2023-06-07,고객415,Sarah Wilson,United States,New York,New York,19103.0,TEC-5088,Phones,Laser Printer,1503.59,10,0.3,-242.29,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,1
+24,CA-2025-950155,2025-06-14,2025-06-18,고객522,Alex Johnson,United States,San Jose,California,98101.0,TEC-7745,Accessories,Laser Printer,1351.06,4,0.05,453.58,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0
+25,CA-2025-956253,2025-03-17,2025-03-23,고객458,David Lee,United States,Los Angeles,California,77001.0,FUR-4164,Furnishings,Desk Lamp,693.51,1,0.2,-80.82,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0
+26,CA-2025-984642,2025-06-04,2025-06-05,고객128,Maria Garcia,United States,Phoenix,Arizona,60601.0,OFF-1626,Labels,Marker Set,637.25,9,0.2,100.5,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0
+27,CA-2023-704596,2023-12-20,2023-12-26,고객360,Alex Johnson,United States,Philadelphia,Pennsylvania,78201.0,OFF-9518,Art,Ring Binder,790.02,9,0.0,-14.92,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0
+28,CA-2024-230679,,2024-03-18,고객619,David Lee,United States,Austin,Texas,78201.0,OFF-7592,Appliances,Shipping Labels,1658.02,10,0.1,245.44,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0
+29,CA-2023-282480,2023-05-11,2023-05-13,고객515,Robert Davis,United States,San Antonio,Texas,85001.0,TEC-4443,Copiers,Mobile Phone,1199.55,7,0.5,238.57,0,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0
+30,CA-2024-934692,2024-11-01,2024-11-04,고객774,Maria Garcia,United States,San Diego,California,75201.0,TEC-2530,Accessories,Laser Printer,799.68,4,0.3,27.12,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0,0,0
+31,CA-2025-905819,2025-04-05,2025-04-07,고객566,Amit Shah,United States,Chicago,Illinois,95101.0,FUR-7291,Furnishings,Conference Table,51.77,4,0.2,6.04,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1
+32,CA-2023-943170,2023-06-01,2023-06-07,고객151,Robert Davis,United States,Seattle,Washington,90001.0,FUR-3184,Furnishings,Desk Lamp,17.94,2,0.2,-2.13,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,1,0
+33,CA-2024-266889,2024-09-19,2024-09-26,고객560,David Lee,United States,Seattle,Washington,78701.0,OFF-9540,Binders,Ring Binder,1606.5,7,0.3,28.19,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0
+34,CA-2024-666390,2024-03-26,2024-03-27,고객241,James Smith,United States,Seattle,Washington,78201.0,OFF-4505,Labels,Storage Box,520.02,5,0.1,-30.25,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,1
+35,CA-2023-907189,2023-12-05,2023-12-10,고객977,Daniel Taylor,United States,  san diego  ,California,78201.0,OFF-1096,Storage,Shipping Labels,753.07,4,0.2,-12.29,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0
+36,CA-2025-611945,2025-05-23,2025-05-30,고객379,Amit Shah,United States,San Antonio,Texas,10001.0,OFF-6507,Appliances,Storage Box,972.49,9,0.3,280.75,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0
+37,CA-2023-513160,2023-06-19,2023-06-26,고객185,Michael Miller,United States,San Diego,California,60601.0,TEC-3977,Phones,Laser Printer,1655.82,10,0.3,-387.16,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0
+38,CA-2023-972335,2023-12-02,2023-12-04,고객358,Olivia Martin,United States,Unknown,California,92101.0,OFF-9837,Labels,Shipping Labels,593.71,7,0.1,119.46,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0
+39,CA-2024-121369,2024-10-27,2024-10-28,고객344,James Smith,United States,  austin  ,Texas,78701.0,FUR-4571,Furnishings,Desk Lamp,80.14,1,0.05,-10.45,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0
+40,CA-2023-213349,2023-06-21,2023-06-26,고객419,Neha Joshi,United States,San Jose,California,78201.0,OFF-4249,Labels,Marker Set,1735.01,2,0.05,570.53,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0
+41,CA-2025-226935,2025-04-30,2025-05-06,고객455,Robert Davis,United States,Houston,Texas,78701.0,TEC-2129,Machines,Wireless Mouse,190.61,5,50%,21.01,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,0,0,0
+42,CA-2025-582071,2025-04-22,2025-04-26,고객545,James Smith,United States,Los Angeles,California,75201.0,OFF-9817,Binders,Storage Box,784.87,6,0.5,223.64,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0
+43,CA-2025-572700,2025-04-25,2025-05-01,고객868,Emily Brown,United States,San Jose,California,95101.0,OFF-6511,Labels,Storage Box,488.96,4,0.0,-40.41,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,1,0
+44,CA-2023-725113,2023-07-06,2023-07-10,고객669,Alex Johnson,United States,Houston,Texas,77001.0,OFF-4954,Appliances,Storage Box,643.85,5,0.1,-52.93,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0
+45,CA-2024-197573,2024-07-22,2024-07-29,고객326,Amit Shah,United States,Houston,Texas,0.0,OFF-7046,Binders,Marker Set,1245.57,8,0.2,281.2,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0
+46,CA-2023-421517,2023-12-19,2023-12-23,고객336,Maria Garcia,United States,Seattle,Washington,77001.0,TEC-2958,Accessories,Laptop Stand,994.3,6,0.5,22.12,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0
+47,CA-2025-205409,2025-01-26,2025-01-30,고객403,Priya Patel,United States,Phoenix,Arizona,60601.0,FUR-1231,Chairs,Desk Lamp,1306.46,9,0.3,-104.78,0,1,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0
+48,CA-2023-614723,2023-02-25,2023-03-02,고객993,Alex Johnson,United States,  phoenix  ,Arizona,85001.0,FUR-8843,Furnishings,Desk Lamp,1257.77,3,0.5,340.95,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0
+49,CA-2023-705050,2023-02-22,2023-02-25,고객255,James Smith,United States,San Diego,California,85001.0,FUR-5066,Bookcases,Conference Table,212.44,2,0.2,9.57,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0
+50,CA-2024-564226,2024-09-02,2024-09-09,고객980,Neha Joshi,United States,San Jose,California,85001.0,TEC-2625,Accessories,Laptop Stand,412.43,9,0.2,8.38,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0
+51,CA-2024-528361,2024-11-07,2024-11-08,고객805,Neha Joshi,United States,Chicago,Illinois,85001.0,OFF-4792,Storage,Shipping Labels,437.84,9,0.0,-68.34,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,1,0,0
+52,CA-2025-942956,2025-05-30,2025-06-03,고객535,Maria Garcia,United States,Los Angeles,California,77001.0,TEC-5352,Accessories,Wireless Mouse,1239.79,5,0.5,128.78,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,1
+53,CA-2023-591465,2023-06-19,2023-06-26,고객816,Amit Shah,United States,Phoenix,Arizona,75201.0,FUR-8172,Bookcases,Office Chair,1074.32,10,0.1,14.49,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0
+54,CA-2025-976566,2025-01-22,2025-01-25,고객883,Michael Miller,United States,San Jose,California,95101.0,OFF-3870,Binders,Marker Set,456.66,2,0.05,149.39,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0
+55,CA-2024-195674,2024-03-28,2024-03-31,고객456,Amit Shah,United States,Chicago,Illinois,19103.0,TEC-3634,Machines,USB Keyboard,1794.53,7,50%,24.96,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0
+56,CA-2024-429795,2024-05-22,2024-05-25,고객431,Maria Garcia,United States,Austin,Texas,75201.0,TEC-9889,Copiers,USB Keyboard,1701.79,9,0.0,38.96,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0
+57,CA-2023-154118,2023-07-12,2023-07-17,고객373,Robert Davis,United States,Philadelphia,Pennsylvania,85001.0,FUR-8941,Bookcases,Office Chair,1123.76,8,0.5,17.11,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0
+58,CA-2024-527809,2024-09-15,2024-09-22,고객330,Olivia Martin,United States,Houston,Texas,92101.0,TEC-3522,Copiers,Laser Printer,1279.93,5,0.3,-309.48,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,1,0,0
+59,CA-2024-251668,2024-12-23,2024-12-26,고객295,Neha Joshi,United States,San Antonio,Texas,98101.0,TEC-2143,Machines,USB Keyboard,1503.83,8,0.05,36.2,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1
+60,CA-2025-715448,2025-03-17,2025-03-22,고객986,James Smith,United States,Phoenix,Arizona,75201.0,OFF-6654,Storage,Marker Set,1478.42,5,0.5,-104.77,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0
+61,CA-2024-997594,2024-01-22,2024-01-26,고객144,Sarah Wilson,United States,Philadelphia,Pennsylvania,92101.0,TEC-7325,Accessories,USB Keyboard,1566.33,4,0.3,-31.67,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,1,0
+62,CA-2023-579123,2023-05-10,2023-05-15,고객839,James Smith,United States,San Jose,California,78701.0,FUR-2225,Furnishings,Desk Lamp,602.93,2,20%,-114.66,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,1
+63,CA-2024-498468,2024-09-30,2024-10-06,고객741,Ananya Rao,United States,San Antonio,Texas,75201.0,OFF-2121,Paper,Shipping Labels,1172.51,6,0.5,311.42,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0
+64,CA-2025-414012,2025-02-03,2025-02-04,고객147,Sarah Wilson,United States,San Antonio,Texas,85001.0,FUR-7141,Furnishings,Wooden Bookcase,1761.18,2,0.2,-264.5,0,0,0,0,0,0,1,0,1,0,0,1,0,0,1,0,0,0
+65,CA-2024-739098,2024-06-27,2024-07-01,고객734,Michael Miller,United States,San Jose,California,92101.0,FUR-4804,Furnishings,Desk Lamp,1229.79,3,0.05,-178.27,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1
+66,CA-2023-265649,,2023-09-25,고객552,Sarah Wilson,United States,New York,New York,85001.0,OFF-5097,Binders,Shipping Labels,1618.84,8,0.1,253.46,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0
+67,CA-2024-410244,2024-01-29,2024-02-05,고객122,Olivia Martin,United States,San Diego,California,78201.0,FUR-1132,Bookcases,Conference Table,199.12,7,0.3,-6.89,0,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0
+68,CA-2025-751051,2025-03-05,2025-03-12,고객794,Daniel Taylor,United States,Houston,Texas,78701.0,OFF-2591,Appliances,Printer Paper,1095.86,6,0.05,144.62,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1
+69,CA-2025-442589,2025-03-18,2025-03-22,고객279,Priya Patel,United States,New York,New York,75201.0,OFF-9697,Art,Shipping Labels,1046.6,3,0.0,309.56,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0
+70,CA-2023-943298,2023-09-21,2023-09-28,고객579,Maria Garcia,United States,San Diego,California,77001.0,FUR-6992,Bookcases,Conference Table,1741.55,5,0.5,474.12,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0
+71,CA-2023-769567,2023-09-28,2023-10-03,고객210,Michael Miller,United States,Los Angeles,California,92101.0,FUR-6374,Chairs,Office Chair,822.98,5,0.3,-17.6,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0
+72,CA-2025-139019,2025-04-23,2025-04-27,고객604,Maria Garcia,United States,Seattle,Washington,77001.0,TEC-7367,Copiers,Laser Printer,549.52,7,0.0,-91.29,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1
+73,CA-2025-974190,2025-01-30,2025-02-05,고객730,Amit Shah,United States,Dallas,Texas,10001.0,TEC-4559,Copiers,USB Keyboard,759.08,3,0.2,108.51,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,0
+74,CA-2025-776149,2025-05-25,2025-05-28,고객162,Amit Shah,United States,Los Angeles,California,77001.0,FUR-8450,Bookcases,Wooden Bookcase,1765.82,6,0.3,513.88,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0
+75,CA-2024-925206,2024-10-16,2024-10-21,고객170,Olivia Martin,United States,New York,New York,77001.0,TEC-4817,Machines,Laptop Stand,98.64,6,0.05,33.86,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,1
+76,CA-2023-215266,2023-01-03,2023-01-06,고객234,Alex Johnson,United States,Chicago,Illinois,77001.0,TEC-1258,Accessories,Laser Printer,1777.65,9,0.1,407.27,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,0,0,0
+77,CA-2023-479625,2023-05-10,2023-05-16,고객562,Robert Davis,United States,San Antonio,Texas,95101.0,FUR-9543,Tables,Conference Table,950.75,2,0.2,18.03,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0
+78,CA-2023-847006,2023-02-01,2023-02-02,고객175,Maria Garcia,United States,San Diego,California,95101.0,TEC-2076,Accessories,Laser Printer,1526.36,7,0.5,-282.72,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1
+79,CA-2024-575755,2024-10-10,2024-10-15,고객201,Daniel Taylor,United States,Dallas,Texas,90001.0,TEC-8046,Copiers,Laptop Stand,1284.18,7,0.3,87.75,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1
+80,CA-2023-797416,2023-12-14,2023-12-21,고객483,James Smith,United States,San Diego,California,92101.0,OFF-2494,Labels,Printer Paper,722.52,2,10%,4.38,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0
+81,CA-2023-688866,2023-04-09,2023-04-15,고객786,Maria Garcia,United States,Seattle,Washington,0.0,OFF-1842,Storage,Marker Set,675.78,3,0.3,-144.62,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0
+82,CA-2023-988432,2023-12-27,2023-12-28,고객458,Olivia Martin,United States,San Jose,California,19103.0,OFF-5564,Art,Ring Binder,917.28,3,0.5,36.06,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0
+83,CA-2025-789786,2025-05-15,2025-05-20,고객129,James Smith,United States,San Jose,California,98101.0,OFF-6567,Storage,Printer Paper,1107.52,9,0.0,127.8,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0
+84,CA-2025-132146,2025-06-09,2025-06-11,고객864,Robert Davis,United States,San Jose,California,78201.0,FUR-8432,Tables,Wooden Bookcase,1185.96,2,0.05,230.77,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0
+85,CA-2023-155164,2023-11-16,2023-11-22,고객261,Daniel Taylor,United States,Philadelphia,Pennsylvania,10001.0,OFF-5458,Binders,Storage Box,1400.09,10,0.3,-278.65,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0
+86,CA-2024-216276,2024-09-13,2024-09-17,고객794,Michael Miller,United States,San Antonio,Texas,92101.0,OFF-1744,Paper,Storage Box,497.51,9,0.0,-21.34,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0
+87,CA-2023-403507,2023-02-26,2023-02-27,고객222,Unknown,United States,Houston,Texas,98101.0,TEC-3878,Accessories,USB Keyboard,548.14,4,0.05,114.29,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0
+88,CA-2024-878086,2024-12-21,2024-12-23,고객546,Alex Johnson,United States,Dallas,Texas,90001.0,TEC-8033,Copiers,USB Keyboard,1009.23,6,0.0,-11.87,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,0,0,0
+89,CA-2023-823108,2023-04-28,2023-05-02,고객190,Amit Shah,United States,New York,New York,77001.0,OFF-7560,Art,Printer Paper,1739.43,3,0.3,45.33,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0
+90,CA-2025-763984,2025-06-10,2025-06-13,고객643,Robert Davis,United States,Seattle,Washington,19103.0,OFF-3419,Paper,Printer Paper,616.41,6,0.05,24.96,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0
+91,CA-2023-758452,2023-09-20,2023-09-22,고객575,Daniel Taylor,United States,Chicago,Illinois,95101.0,FUR-6295,Tables,Wooden Bookcase,1087.5,2,0.05,348.84,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,1,0
+92,CA-2023-631981,2023-03-11,2023-03-15,고객417,EMILY BROWN,United States,San Diego,California,10001.0,OFF-7041,Storage,Printer Paper,1139.44,5,0.3,-246.46,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0
+93,CA-2025-681242,2025-06-03,2025-06-10,고객560,Daniel Taylor,United States,Los Angeles,California,78701.0,TEC-6267,Copiers,Mobile Phone,1110.1,9,0.2,30.67,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1
+94,CA-2023-777513,2023-03-05,2023-03-09,고객140,PRIYA PATEL,United States,Los Angeles,California,92101.0,FUR-9586,Chairs,Desk Lamp,,6,0.5,-291.38,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0
+95,CA-2023-778748,2023-10-17,2023-10-21,고객167,Sarah Wilson,United States,San Antonio,Texas,75201.0,OFF-5655,Storage,Marker Set,1395.84,10,0.0,312.02,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0
+96,CA-2023-832409,2023-12-08,2023-12-09,고객232,Neha Joshi,United States,San Jose,California,90001.0,FUR-7171,Tables,Wooden Bookcase,1197.19,6,0.1,395.81,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0,0
+97,CA-2024-543973,2024-12-20,2024-12-27,고객118,Sarah Wilson,United States,Seattle,Washington,60601.0,TEC-6598,Copiers,Laptop Stand,1794.92,9,0.0,247.01,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1
+98,CA-2023-975686,2023-05-21,2023-05-23,고객777,SARAH WILSON,United States,Los Angeles,California,60601.0,FUR-3527,Chairs,Wooden Bookcase,538.06,2,0.3,114.35,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0
+99,CA-2025-854540,2025-02-28,2025-03-05,고객554,Neha Joshi,United States,Chicago,Illinois,98101.0,TEC-4833,Accessories,Laser Printer,1300.36,1,0.2,-40.86,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,1,0
+100,CA-2025-395459,2025-05-05,2025-05-07,고객614,Unknown,United States,Philadelphia,Pennsylvania,60601.0,OFF-3267,Unknown,Printer Paper,1223.53,10,0.2,33.05,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1
+101,CA-2024-992512,2024-05-07,2024-05-14,고객391,Maria Garcia,United States,Philadelphia,Pennsylvania,85001.0,TEC-9410,Accessories,USB Keyboard,1001.74,2,0.5,257.98,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0
+102,CA-2023-626392,2023-08-16,2023-08-23,고객341,Amit Shah,United States,San Diego,California,19103.0,FUR-1461,Tables,Office Chair,1593.26,1,0.2,-347.4,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1
+103,CA-2024-245534,2024-10-27,2024-10-30,고객559,NEHA JOSHI,United States,Chicago,Illinois,0.0,TEC-5193,Accessories,Laptop Stand,254.58,5,0.2,42.68,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,0
+104,CA-2025-150068,2025-01-14,2025-01-19,고객529,Michael Miller,United States,Dallas,Texas,92101.0,TEC-2816,Copiers,Mobile Phone,766.47,5,5%,-53.12,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,1,0,0
+105,CA-2023-744674,2023-01-17,2023-01-23,고객346,Neha Joshi,United States,Dallas,Texas,60601.0,TEC-9576,Machines,Wireless Mouse,1038.49,3,0.1,7.83,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0
+106,CA-2024-505674,2024-07-11,2024-07-16,고객359,Ananya Rao,United States,Dallas,Texas,19103.0,TEC-6649,Accessories,Wireless Mouse,1001.04,7,20%,-224.11,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0
+107,CA-2025-774020,2025-01-22,2025-01-29,고객950,Daniel Taylor,United States,Philadelphia,Pennsylvania,92101.0,TEC-3986,Accessories,Wireless Mouse,247.07,6,0.3,-11.58,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,0
+108,CA-2025-430926,2025-03-05,2025-03-09,고객627,Amit Shah,United States,New York,New York,92101.0,TEC-1599,Accessories,Laser Printer,533.85,1,0.05,150.27,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0
+109,CA-2025-485896,2025-06-01,2025-06-08,고객509,Ananya Rao,United States,New York,New York,78201.0,OFF-4060,Binders,Storage Box,1559.51,6,0.1,-273.41,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,0
+110,CA-2025-962287,2025-03-27,2025-04-01,고객658,David Lee,United States,Phoenix,Arizona,90001.0,OFF-6372,Appliances,Shipping Labels,1443.66,7,0.0,12.08,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,1,0,0
+111,CA-2024-862120,2024-04-01,2024-04-06,고객729,Amit Shah,United States,Seattle,Washington,78701.0,OFF-2229,Appliances,Storage Box,771.6,8,0.1,14.1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0
+112,CA-2024-811027,2024-06-09,2024-06-16,고객135,JAMES SMITH,United States,Seattle,Washington,77001.0,OFF-6933,Binders,Marker Set,1225.5,1,0.05,317.65,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0
+113,CA-2024-180620,2024-09-11,2024-09-13,고객642,Sarah Wilson,United States,  austin  ,Texas,19103.0,FUR-5089,Bookcases,Office Chair,814.26,6,0.1,13.32,0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,0,0,0
+114,CA-2023-372933,,2023-07-14,고객319,Neha Joshi,United States,Dallas,Texas,98101.0,TEC-4279,Phones,Laptop Stand,701.48,9,0.0,-65.19,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,1,0
+115,CA-2024-435112,2024-04-07,2024-04-09,고객826,Maria Garcia,United States,Seattle,Washington,75201.0,FUR-5914,Chairs,Wooden Bookcase,805.64,2,0.5,266.29,0,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0
+116,CA-2024-127560,2024-06-04,2024-06-06,고객667,Neha Joshi,United States,Los Angeles,California,92101.0,OFF-2412,Unknown,Shipping Labels,1773.36,3,0.05,397.63,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1
+117,CA-2025-432427,2025-01-04,2025-01-10,고객560,Emily Brown,United States,San Diego,California,75201.0,OFF-3102,Art,Marker Set,950.05,7,0.3,-195.47,0,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0
+118,CA-2025-418897,2025-02-25,2025-02-27,고객265,Sarah Wilson,United States,  san antonio  ,Texas,77001.0,FUR-9501,Tables,Office Chair,909.13,1,0%,55.33,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0
+119,CA-2023-626986,2023-07-21,2023-07-27,고객706,Unknown,United States,Dallas,Texas,60601.0,OFF-1674,Labels,Printer Paper,499.82,5,0.3,35.03,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0
+120,CA-2024-770030,2024-10-18,2024-10-25,고객609,Michael Miller,United States,San Jose,California,85001.0,FUR-8912,Chairs,Conference Table,482.26,4,0.3,-0.02,0,0,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0
+121,CA-2024-313933,2024-04-09,2024-04-10,고객721,JAMES SMITH,United States,Seattle,Washington,98101.0,OFF-6658,Binders,Ring Binder,115.36,8,0.2,4.68,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0
+122,CA-2024-359961,2024-06-11,2024-06-16,고객199,Alex Johnson,United States,Los Angeles,California,78201.0,OFF-5067,Paper,Shipping Labels,579.86,8,0.0,-51.91,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,1,0
+123,CA-2025-423528,2025-01-08,2025-01-11,고객123,Maria Garcia,United States,Houston,Texas,0.0,TEC-4944,Accessories,Mobile Phone,1375.51,8,0.3,41.39,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,1,0
+124,CA-2023-988324,2023-02-19,2023-02-20,고객541,JAMES SMITH,United States,Phoenix,Arizona,98101.0,OFF-7606,Storage,Printer Paper,894.85,8,0.1,64.44,0,0,0,0,0,0,1,0,0,1,0,0,1,0,1,0,0,0
+125,CA-2023-628750,2023-02-22,2023-02-27,고객882,Robert Davis,United States,Dallas,Texas,95101.0,OFF-3108,Labels,Storage Box,356.82,9,0.1,-73.46,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0
+126,CA-2025-520884,2025-03-24,2025-03-27,고객146,Alex Johnson,United States,Dallas,Texas,98101.0,OFF-8761,Art,Storage Box,1690.6,3,0.05,188.46,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0
+127,CA-2024-746447,2024-09-12,2024-09-17,고객707,Sarah Wilson,United States,Chicago,Illinois,75201.0,FUR-5911,Furnishings,Office Chair,595.71,10,0.1,-90.85,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0
+128,CA-2023-860557,2023-12-06,2023-12-12,고객711,Emily Brown,United States,  los angeles  ,California,78701.0,OFF-1841,Art,Storage Box,1763.98,10,10%,402.28,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,1
+129,CA-2024-353961,2024-06-20,2024-06-26,고객686,Ananya Rao,United States,Seattle,Washington,77001.0,FUR-8225,Tables,Conference Table,1118.57,7,0.05,271.81,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0
+130,CA-2024-871581,2024-02-27,2024-03-04,고객822,James Smith,United States,Houston,Texas,77001.0,FUR-8837,Furnishings,Desk Lamp,743.4,10,0.2,203.46,0,0,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0
+131,CA-2024-358494,2024-04-15,2024-04-20,고객671,David Lee,United States,Philadelphia,Pennsylvania,85001.0,FUR-4396,Furnishings,Desk Lamp,986.92,5,0.3,39.98,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0
+132,CA-2023-498138,2023-12-24,2023-12-29,고객938,Sarah Wilson,United States,Seattle,Washington,85001.0,OFF-5712,Appliances,Printer Paper,498.04,2,0.3,77.68,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0
+133,CA-2024-384303,2024-03-28,2024-04-03,고객240,Maria Garcia,United States,Phoenix,Arizona,98101.0,OFF-4972,Labels,Marker Set,1347.23,4,0.05,332.46,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1
+134,CA-2024-814281,2024-10-15,2024-10-17,고객105,Robert Davis,United States,New York,New York,78201.0,FUR-8822,Chairs,Desk Lamp,187.55,6,0.5,24.96,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0
+135,CA-2023-661147,2023-10-20,2023-10-26,고객279,Amit Shah,United States,  new york  ,New York,10001.0,OFF-9116,Paper,Shipping Labels,1635.02,2,0.5,154.48,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0
+136,CA-2023-772464,2023-01-10,2023-01-13,고객237,OLIVIA MARTIN,United States,San Jose,California,92101.0,FUR-4159,Bookcases,Desk Lamp,1088.19,6,0.1,24.6,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0,0
+137,CA-2025-929179,2025-01-18,2025-01-22,고객681,Michael Miller,United States,Austin,Texas,60601.0,FUR-8007,Tables,Office Chair,469.02,3,0.0,90.04,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+138,CA-2024-107161,2024-11-16,2024-11-17,고객492,PRIYA PATEL,United States,Chicago,Illinois,85001.0,OFF-5947,Art,Marker Set,1767.18,8,0.1,550.47,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0
+139,CA-2023-421709,2023-09-25,2023-10-01,고객515,Michael Miller,United States,Philadelphia,Pennsylvania,98101.0,FUR-2923,Tables,Desk Lamp,1249.44,1,0.5,-223.73,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0
+140,CA-2023-491774,2023-08-15,2023-08-17,고객818,Robert Davis,United States,Chicago,Illinois,75201.0,TEC-5054,Phones,Mobile Phone,864.9,8,0.5,296.92,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1
+141,CA-2024-674251,2024-06-24,2024-06-30,고객686,Robert Davis,United States,Philadelphia,Pennsylvania,60601.0,OFF-9525,Binders,Printer Paper,,10,0.0,-31.51,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0
+142,CA-2023-575458,2023-07-30,2023-08-05,고객625,Amit Shah,United States,San Jose,California,0.0,TEC-8575,Unknown,Wireless Mouse,883.98,9,0.2,207.93,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,0,0
+143,CA-2023-461264,2023-09-18,2023-09-25,고객654,Alex Johnson,United States,New York,New York,92101.0,OFF-5703,Binders,Ring Binder,1344.48,10,0.0,-299.59,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,1,0,0
+144,CA-2025-501058,,2025-03-01,고객990,Amit Shah,United States,Seattle,Washington,90001.0,FUR-6697,Bookcases,Wooden Bookcase,1165.42,7,0.1,402.9,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1
+145,CA-2024-412856,2024-02-07,2024-02-12,고객789,Ananya Rao,United States,Chicago,Illinois,78201.0,TEC-4762,Accessories,USB Keyboard,1312.32,4,0.0,267.33,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,1,0
+146,CA-2023-539605,2023-06-08,2023-06-11,고객346,Priya Patel,United States,Houston,Texas,90001.0,OFF-8314,Art,Printer Paper,1687.84,2,0.0,397.8,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0
+147,CA-2025-913761,2025-01-28,2025-01-29,고객243,Unknown,United States,San Antonio,Texas,77001.0,FUR-6253,Chairs,Desk Lamp,794.62,9,0.05,161.01,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0
+148,CA-2024-720407,2024-11-07,2024-11-12,고객741,Michael Miller,United States,  houston  ,Texas,75201.0,FUR-1768,Tables,Conference Table,749.1,5,0.0,62.95,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,1,0
+149,CA-2023-664058,2023-11-23,2023-11-29,고객346,Olivia Martin,United States,San Antonio,Texas,85001.0,TEC-8586,Phones,Mobile Phone,739.6,5,0.2,-103.3,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,1
+150,CA-2024-778120,2024-03-02,2024-03-07,고객560,Olivia Martin,United States,Dallas,Texas,90001.0,OFF-1844,Storage,Storage Box,248.29,4,0.1,-31.78,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,1
+151,CA-2024-685997,2024-09-11,2024-09-16,고객590,Priya Patel,United States,Unknown,New York,85001.0,TEC-4470,Accessories,Wireless Mouse,1573.53,4,0.3,290.45,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,0,0
+152,CA-2025-678897,2025-02-11,2025-02-15,고객894,David Lee,United States,Houston,Texas,92101.0,TEC-6053,Machines,Laser Printer,1254.56,4,0.2,375.21,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0
+153,CA-2024-488712,2024-05-24,2024-05-28,고객523,Alex Johnson,United States,Los Angeles,California,77001.0,TEC-1265,Machines,Mobile Phone,1446.65,8,0.1,431.97,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1
+154,CA-2024-697467,2024-08-16,2024-08-22,고객611,Robert Davis,United States,San Antonio,Texas,78701.0,TEC-5216,Copiers,USB Keyboard,536.98,4,0.1,-60.14,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0
+155,CA-2023-668471,2023-06-22,2023-06-28,고객636,Alex Johnson,United States,Philadelphia,Pennsylvania,78701.0,OFF-1104,Binders,Ring Binder,311.32,9,0.2,-43.45,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,1,0,0
+156,CA-2023-163386,2023-08-25,2023-08-26,고객775,Emily Brown,United States,Seattle,Washington,10001.0,TEC-1194,Phones,Mobile Phone,278.65,4,0.3,6.58,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,1,0
+157,CA-2023-200992,2023-10-09,2023-10-14,고객346,Priya Patel,United States,Phoenix,Arizona,75201.0,TEC-6807,Machines,USB Keyboard,38.72,7,0.05,-7.19,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0
+158,CA-2024-989053,2024-01-18,2024-01-22,고객769,Olivia Martin,United States,San Diego,California,10001.0,FUR-7640,Furnishings,Conference Table,1020.48,4,0.1,163.71,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0
+159,CA-2024-554987,2024-05-02,2024-05-03,고객679,Olivia Martin,United States,Austin,Texas,75201.0,TEC-4764,Accessories,Mobile Phone,24.93,3,0.0,1.24,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0
+160,CA-2023-134500,2023-10-05,2023-10-06,고객970,Sarah Wilson,United States,Los Angeles,California,77001.0,OFF-7525,Labels,Shipping Labels,1234.5,5,0.3,108.77,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1
+161,CA-2024-447843,2024-07-31,2024-08-02,고객873,ANANYA RAO,United States,San Jose,California,98101.0,FUR-9204,Tables,Office Chair,1503.69,7,0.5,432.94,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0
+162,CA-2024-911131,2024-03-23,2024-03-25,고객130,Michael Miller,United States,  los angeles  ,California,92101.0,FUR-4737,Tables,Conference Table,,10,0.3,-7.41,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0
+163,CA-2023-358421,2023-07-10,2023-07-16,고객184,David Lee,United States,San Jose,California,78201.0,OFF-7383,Storage,Shipping Labels,1191.92,2,0.3,-86.74,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,1
+164,CA-2023-296494,2023-04-04,2023-04-05,고객559,Robert Davis,United States,Phoenix,Arizona,75201.0,FUR-2692,Bookcases,Office Chair,804.97,5,0.0,-137.24,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,1,0
+165,CA-2024-533911,2024-07-21,2024-07-22,고객897,Maria Garcia,United States,San Jose,California,75201.0,OFF-9537,Paper,Storage Box,1079.69,6,0.2,-261.93,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,1
+166,CA-2023-389366,2023-05-23,2023-05-26,고객406,Emily Brown,United States,Phoenix,Arizona,19103.0,FUR-5040,Furnishings,Wooden Bookcase,488.98,3,0.0,-73.19,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0
+167,CA-2023-498343,2023-04-20,2023-04-22,고객550,Sarah Wilson,United States,Phoenix,Arizona,78701.0,OFF-5922,Storage,Marker Set,20.13,7,0.1,5.13,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1
+168,CA-2023-828716,2023-07-25,2023-07-29,고객689,Daniel Taylor,United States,Philadelphia,Pennsylvania,19103.0,TEC-5592,Copiers,Laser Printer,326.33,7,0.1,-24.52,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,1,0
+169,CA-2024-128223,2024-07-31,2024-08-02,고객825,Priya Patel,United States,San Jose,California,85001.0,FUR-7703,Furnishings,Wooden Bookcase,1795.1,3,0.5,378.0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0
+170,CA-2023-726979,2023-11-07,2023-11-09,고객696,Amit Shah,United States,Phoenix,Arizona,75201.0,TEC-9907,Phones,Laser Printer,1188.32,7,0.2,-244.34,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,1,0
+171,CA-2025-789545,2025-04-11,2025-04-16,고객270,Michael Miller,United States,San Jose,California,10001.0,TEC-6432,Copiers,Wireless Mouse,1151.62,2,0.0,243.42,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0
+172,CA-2023-703178,2023-04-11,2023-04-14,고객556,Sarah Wilson,United States,Houston,Texas,92101.0,FUR-6651,Bookcases,Conference Table,923.13,9,0.3,90.75,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,1
+173,CA-2023-577450,2023-10-30,2023-11-03,고객633,Emily Brown,United States,Los Angeles,California,92101.0,FUR-8178,Furnishings,Desk Lamp,216.0,3,0.1,-13.58,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0
+174,CA-2023-938913,2023-11-04,2023-11-05,고객858,Priya Patel,United States,Seattle,Washington,60601.0,FUR-6422,Furnishings,Conference Table,214.23,6,0.5,-39.5,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1
+175,CA-2025-743937,2025-03-27,2025-03-31,고객560,Neha Joshi,United States,Unknown,Texas,78201.0,FUR-4519,Chairs,Desk Lamp,338.54,7,0.2,-78.71,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0
+176,CA-2025-306647,2025-04-08,2025-04-15,고객216,David Lee,United States,  los angeles  ,California,92101.0,TEC-7367,Copiers,Mobile Phone,1042.61,9,0.05,-31.82,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0
+177,CA-2023-804758,2023-12-23,2023-12-26,고객420,Maria Garcia,United States,San Diego,California,85001.0,FUR-3999,Tables,Wooden Bookcase,1114.31,5,0.3,116.0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0
+178,CA-2024-766371,2024-02-02,2024-02-06,고객668,James Smith,United States,San Jose,California,85001.0,TEC-4065,Unknown,USB Keyboard,255.06,7,0.2,-35.34,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1
+179,CA-2023-502594,2023-02-24,2023-03-03,고객518,Michael Miller,United States,Philadelphia,Pennsylvania,78201.0,TEC-9006,Unknown,Wireless Mouse,1713.7,8,0.05,-227.79,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,1,0
+180,CA-2023-276379,2023-02-01,2023-02-08,고객679,Ananya Rao,United States,Houston,Texas,75201.0,TEC-2871,Machines,Mobile Phone,531.43,5,0.05,38.56,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0
+181,CA-2024-545807,2024-07-09,2024-07-16,고객853,Olivia Martin,United States,  new york  ,New York,0.0,OFF-1528,Binders,Shipping Labels,1369.93,8,0.3,-162.85,0,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0
+182,CA-2025-873443,2025-06-01,2025-06-08,고객981,ANANYA RAO,United States,Los Angeles,California,78701.0,OFF-3719,Art,Ring Binder,794.81,2,0.05,-98.61,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0
+183,CA-2025-276556,2025-04-13,2025-04-15,고객820,David Lee,United States,New York,New York,95101.0,FUR-9428,Bookcases,Wooden Bookcase,1029.57,9,10%,111.31,0,1,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0
+184,CA-2023-437742,2023-03-02,2023-03-05,고객879,Olivia Martin,United States,Austin,Texas,78201.0,OFF-3329,Art,Shipping Labels,235.38,3,0.05,-38.19,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,1,0
+185,CA-2024-391740,2024-02-29,2024-03-04,고객565,Emily Brown,United States,San Diego,California,0.0,TEC-2526,Copiers,Laser Printer,143.33,2,0.2,8.51,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0
+186,CA-2025-438548,2025-03-25,2025-03-30,고객445,Robert Davis,United States,San Antonio,Texas,60601.0,FUR-6631,Bookcases,Office Chair,398.35,7,0.05,18.65,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0
+187,CA-2024-548580,2024-10-03,2024-10-10,고객805,James Smith,United States,San Diego,California,85001.0,FUR-5489,Bookcases,Desk Lamp,37.18,3,0.2,0.89,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,1
+188,CA-2023-420349,2023-03-26,2023-03-29,고객539,Michael Miller,United States,Austin,Texas,98101.0,OFF-1017,Paper,Storage Box,1627.61,3,0.0,-19.85,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,1,0,0
+189,CA-2023-460263,2023-05-16,2023-05-21,고객980,Amit Shah,United States,Houston,Texas,60601.0,FUR-2160,Chairs,Conference Table,938.84,8,0.0,-230.17,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0
+190,CA-2025-911032,2025-01-18,2025-01-25,고객756,Michael Miller,United States,Los Angeles,California,90001.0,FUR-3688,Furnishings,Desk Lamp,192.94,6,0.1,-32.36,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0
+191,CA-2023-327797,2023-08-07,2023-08-13,고객202,James Smith,United States,Seattle,Washington,95101.0,TEC-6759,Copiers,Laser Printer,,7,0.3,45.22,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0
+192,CA-2023-737107,2023-09-11,2023-09-14,고객897,Ananya Rao,United States,Austin,Texas,78701.0,FUR-4366,Chairs,Conference Table,158.97,9,0.3,17.49,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0
+193,CA-2024-722780,2024-10-23,2024-10-24,고객640,Alex Johnson,United States,Houston,Texas,19103.0,OFF-7337,Art,Storage Box,894.84,2,0.05,44.52,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,1
+194,CA-2024-114463,2024-07-13,2024-07-19,고객320,Alex Johnson,United States,Chicago,Illinois,78201.0,OFF-9209,Binders,Storage Box,1374.8,2,0.0,140.8,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0
+195,CA-2024-424960,2024-02-16,2024-02-17,고객623,Priya Patel,United States,Austin,Texas,75201.0,TEC-7401,Phones,Laser Printer,969.52,10,0.05,-80.97,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,0,0
+196,CA-2024-742039,2024-03-23,2024-03-29,고객416,Michael Miller,United States,  houston  ,Texas,78701.0,TEC-2956,Phones,Laptop Stand,111.77,2,0.2,-20.16,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1
+197,CA-2023-855777,2023-01-12,2023-01-14,고객270,Sarah Wilson,United States,San Diego,California,98101.0,TEC-2934,Phones,Laser Printer,1715.81,9,0.3,377.12,0,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0
+198,CA-2023-577309,2023-10-06,2023-10-11,고객156,Emily Brown,United States,Los Angeles,California,60601.0,OFF-3577,Storage,Printer Paper,479.21,10,0.5,-97.64,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0
+199,CA-2024-112884,2024-11-21,2024-11-27,고객147,Emily Brown,United States,Los Angeles,California,78201.0,TEC-3932,Phones,Mobile Phone,417.3,9,0.0,-93.3,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1
+200,CA-2025-435476,2025-01-28,2025-02-03,고객945,Maria Garcia,United States,San Antonio,Texas,19103.0,TEC-9225,Phones,Laptop Stand,410.33,4,0.2,122.9,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0
+201,CA-2025-911102,2025-04-03,2025-04-08,고객435,Maria Garcia,United States,New York,New York,92101.0,FUR-7044,Chairs,Desk Lamp,1717.71,2,0.2,463.13,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0
+202,CA-2025-617326,2025-03-14,2025-03-17,고객850,Robert Davis,United States,Seattle,Washington,60601.0,TEC-7718,Phones,Laptop Stand,1123.91,8,0.1,118.03,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,1,0,0
+203,CA-2023-494552,2023-12-21,2023-12-27,고객206,Priya Patel,United States,Seattle,Washington,0.0,TEC-9061,Phones,Laptop Stand,1579.94,6,0.0,324.45,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0
+204,CA-2023-490586,,2023-10-15,고객865,Maria Garcia,United States,New York,New York,90001.0,TEC-7461,Phones,Mobile Phone,1658.92,9,0.2,282.86,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1
+205,CA-2023-430310,2023-03-05,2023-03-09,고객817,Olivia Martin,United States,  austin  ,Texas,0.0,TEC-8417,Machines,Laptop Stand,1735.88,4,0.1,-162.14,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0
+206,CA-2023-429287,2023-07-27,2023-07-29,고객223,Robert Davis,United States,San Jose,California,77001.0,FUR-6051,Furnishings,Desk Lamp,203.28,2,0.05,4.01,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,1,0
+207,CA-2023-998182,2023-04-03,2023-04-05,고객251,Maria Garcia,United States,Austin,Texas,77001.0,FUR-7492,Bookcases,Desk Lamp,553.15,10,0.0,24.96,0,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0
+208,CA-2025-361989,2025-04-19,2025-04-21,고객573,Maria Garcia,United States,New York,New York,0.0,OFF-2010,Paper,Ring Binder,1714.16,8,0.3,340.86,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,1,0,0
+209,CA-2025-952227,2025-04-23,2025-04-27,고객122,Maria Garcia,United States,Philadelphia,Pennsylvania,78701.0,FUR-3110,Bookcases,Desk Lamp,1237.82,2,0.3,24.96,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0
+210,CA-2023-514186,2023-02-13,2023-02-17,고객130,Amit Shah,United States,New York,New York,78201.0,FUR-6799,Chairs,Wooden Bookcase,309.04,10,0.2,75.1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1
+211,CA-2023-409440,2023-10-14,2023-10-18,고객521,Robert Davis,United States,Chicago,Illinois,10001.0,OFF-5583,Binders,Ring Binder,70.09,10,0.3,-7.19,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,1,0,0
+212,CA-2023-919898,2023-07-24,2023-07-30,고객591,Robert Davis,United States,  dallas  ,Texas,19103.0,OFF-7363,Storage,Ring Binder,454.47,9,0.0,156.18,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0
+213,CA-2023-594596,2023-11-23,2023-11-28,고객885,Neha Joshi,United States,Houston,Texas,60601.0,FUR-5060,Chairs,Desk Lamp,60.51,5,0.0,14.23,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0
+214,CA-2025-936124,2025-04-15,2025-04-22,고객463,Olivia Martin,United States,Seattle,Washington,60601.0,TEC-6210,Machines,Mobile Phone,108.19,4,0.3,27.9,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,1
+215,CA-2024-297377,2024-12-21,2024-12-27,고객655,David Lee,United States,Philadelphia,Pennsylvania,92101.0,FUR-2478,Bookcases,Wooden Bookcase,1706.03,10,0.05,149.9,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0
+216,CA-2023-236828,2023-08-13,2023-08-14,고객834,James Smith,United States,Dallas,Texas,10001.0,TEC-3420,Accessories,Wireless Mouse,864.56,6,0.3,-111.63,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0
+217,CA-2025-416423,,2025-06-03,고객239,James Smith,United States,Los Angeles,California,78201.0,TEC-6198,Accessories,Mobile Phone,677.47,7,0.3,-128.3,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0
+218,CA-2024-869649,2024-09-20,2024-09-27,고객230,James Smith,United States,Philadelphia,Pennsylvania,10001.0,TEC-1530,Accessories,Mobile Phone,408.04,10,0.05,-9.37,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0
+219,CA-2025-881549,2025-04-08,2025-04-13,고객343,Sarah Wilson,United States,Houston,Texas,60601.0,OFF-6500,Binders,Printer Paper,1154.25,2,0.2,-191.16,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0
+220,CA-2023-150486,2023-08-03,2023-08-05,고객548,Ananya Rao,United States,Seattle,Washington,60601.0,OFF-9078,Binders,Shipping Labels,129.49,5,0.0,23.6,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+221,CA-2024-336540,2024-01-20,2024-01-21,고객562,Maria Garcia,United States,San Diego,California,85001.0,TEC-6221,Machines,Wireless Mouse,1421.4,10,0.5,291.31,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,1,0,0
+222,CA-2023-197627,2023-12-17,2023-12-19,고객708,Neha Joshi,United States,San Antonio,Texas,98101.0,FUR-8066,Chairs,Conference Table,296.34,2,0.3,93.38,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0
+223,CA-2023-857111,2023-02-24,2023-02-25,고객776,David Lee,United States,Philadelphia,Pennsylvania,77001.0,FUR-1813,Furnishings,Conference Table,376.35,4,0.2,63.35,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0
+224,CA-2023-603660,2023-02-25,2023-02-28,고객199,Alex Johnson,United States,New York,New York,60601.0,FUR-2342,Furnishings,Office Chair,774.27,5,0.5,96.83,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0
+225,CA-2025-506351,2025-03-14,2025-03-18,고객479,Amit Shah,United States,San Diego,California,60601.0,OFF-1731,Storage,Storage Box,884.46,5,0.0,119.51,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,1,0
+226,CA-2023-189870,2023-09-27,2023-09-29,고객927,Robert Davis,United States,Phoenix,Arizona,95101.0,OFF-1999,Binders,Marker Set,1019.13,3,0.5,153.36,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1
+227,CA-2024-513982,2024-07-02,2024-07-08,고객614,Neha Joshi,United States,San Diego,California,95101.0,OFF-2970,Binders,Ring Binder,1034.3,4,0.2,-73.11,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1
+228,CA-2023-556542,2023-08-05,2023-08-12,고객942,Michael Miller,United States,Houston,Texas,95101.0,FUR-6238,Bookcases,Office Chair,234.13,7,0.0,80.3,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0
+229,CA-2024-112964,2024-07-23,2024-07-27,고객215,Amit Shah,United States,Dallas,Texas,60601.0,OFF-2730,Art,Printer Paper,592.42,5,0.3,14.75,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0
+230,CA-2025-699809,2025-06-07,2025-06-12,고객138,James Smith,United States,Philadelphia,Pennsylvania,78201.0,OFF-7581,Labels,Storage Box,1581.19,5,0.2,225.91,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1
+231,CA-2024-957091,2024-12-08,2024-12-10,고객418,David Lee,United States,New York,New York,98101.0,OFF-4734,Paper,Shipping Labels,1344.38,5,0.1,-319.77,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0
+232,CA-2024-297064,2024-03-29,2024-04-05,고객316,Olivia Martin,United States,Philadelphia,Pennsylvania,98101.0,TEC-9462,Machines,Wireless Mouse,490.8,7,0.3,67.4,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,1,0
+233,CA-2025-992647,2025-03-21,2025-03-23,고객277,Priya Patel,United States,Los Angeles,California,10001.0,TEC-1541,Copiers,Wireless Mouse,565.53,9,0.2,24.96,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,1
+234,CA-2024-229890,2024-12-22,2024-12-24,고객347,Sarah Wilson,United States,Phoenix,Arizona,95101.0,OFF-3909,Binders,Marker Set,668.09,8,0.3,-7.91,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0
+235,CA-2023-194782,2023-12-25,2023-12-28,고객128,Amit Shah,United States,Chicago,Illinois,60601.0,TEC-4626,Accessories,Laptop Stand,1509.08,5,0.5,375.04,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1
+236,CA-2024-778818,2024-10-29,2024-11-02,고객715,Daniel Taylor,United States,Dallas,Texas,77001.0,OFF-6004,Appliances,Shipping Labels,43.93,1,0.2,13.04,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0
+237,CA-2024-645928,2024-01-21,2024-01-28,고객698,Maria Garcia,United States,Philadelphia,Pennsylvania,75201.0,OFF-5631,Storage,Printer Paper,830.52,4,0.2,-57.07,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0
+238,CA-2023-783112,2023-03-07,2023-03-10,고객292,James Smith,United States,Phoenix,Arizona,77001.0,OFF-7620,Appliances,Shipping Labels,1155.95,5,0.1,166.08,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0
+239,CA-2023-524252,2023-05-24,2023-05-30,고객854,Alex Johnson,United States,New York,New York,98101.0,TEC-6622,Accessories,Mobile Phone,1182.48,5,0.1,347.82,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1
+240,CA-2025-685365,2025-03-14,2025-03-18,고객400,Maria Garcia,United States,Austin,Texas,60601.0,TEC-3999,Machines,Wireless Mouse,650.43,5,0.05,165.46,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0,0,0
+241,CA-2023-714015,2023-12-30,2024-01-01,고객574,Olivia Martin,United States,Seattle,Washington,92101.0,FUR-2166,Furnishings,Wooden Bookcase,1569.61,7,0.1,-42.36,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0
+242,CA-2023-995735,2023-05-03,2023-05-10,고객240,Priya Patel,United States,Austin,Texas,78201.0,TEC-3346,Machines,Laptop Stand,691.95,5,0.2,-150.54,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,1,0
+243,CA-2024-574012,2024-05-14,2024-05-17,고객314,Daniel Taylor,United States,Austin,Texas,95101.0,FUR-9021,Bookcases,Wooden Bookcase,1776.06,6,0.5,-382.19,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1
+244,CA-2024-659711,2024-03-20,2024-03-26,고객848,SARAH WILSON,United States,San Antonio,Texas,19103.0,TEC-1293,Phones,Laptop Stand,730.88,8,0.2,-180.67,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,1
+245,CA-2024-275133,,2024-12-14,고객943,Alex Johnson,United States,Phoenix,Arizona,85001.0,FUR-9524,Tables,Conference Table,239.04,7,0.3,24.67,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0
+246,CA-2023-951452,2023-05-18,2023-05-21,고객119,Priya Patel,United States,San Diego,California,98101.0,TEC-4460,Phones,Mobile Phone,651.78,4,0.05,207.82,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,1
+247,CA-2023-368214,2023-06-23,2023-06-24,고객708,Alex Johnson,United States,Philadelphia,Pennsylvania,90001.0,TEC-1790,Phones,USB Keyboard,,1,0.2,353.82,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0
+248,CA-2024-760929,2024-01-25,2024-01-26,고객408,Amit Shah,United States,Dallas,Texas,90001.0,OFF-3247,Binders,Printer Paper,460.91,3,0.05,77.03,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,0,0,0
+249,CA-2025-309452,2025-01-06,2025-01-11,고객951,Robert Davis,United States,Los Angeles,California,19103.0,TEC-5839,Accessories,Wireless Mouse,514.61,2,0.2,-67.32,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0
+250,CA-2024-804258,2024-05-23,2024-05-25,고객213,Olivia Martin,United States,Seattle,Washington,78701.0,TEC-3443,Phones,Mobile Phone,1680.16,6,0.05,-417.28,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,1,0
+251,CA-2025-410401,2025-01-10,2025-01-16,고객575,Alex Johnson,United States,Los Angeles,California,60601.0,FUR-5760,Tables,Desk Lamp,1629.36,4,0.2,559.2,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0
+252,CA-2025-795578,2025-01-26,2025-01-27,고객436,Sarah Wilson,United States,Los Angeles,California,95101.0,OFF-2522,Storage,Shipping Labels,,1,0.0,400.53,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0
+253,CA-2023-601476,2023-04-27,2023-05-01,고객764,Daniel Taylor,United States,San Antonio,Texas,90001.0,FUR-1960,Chairs,Office Chair,,5,20%,284.02,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1
+254,CA-2024-476018,2024-08-27,2024-08-31,고객983,Michael Miller,United States,San Jose,California,60601.0,OFF-8997,Labels,Storage Box,1223.68,3,0.3,-27.1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0
+255,CA-2023-650311,2023-02-17,2023-02-18,고객785,Olivia Martin,United States,Phoenix,Arizona,75201.0,OFF-8091,Appliances,Ring Binder,1181.71,1,0.5,320.24,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,1,0,0
+256,CA-2023-742686,2023-12-21,2023-12-27,고객111,MICHAEL MILLER,United States,Austin,Texas,75201.0,OFF-9123,Paper,Printer Paper,1157.4,3,0.3,330.13,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0
+257,CA-2023-774567,2023-11-25,2023-11-27,고객512,Olivia Martin,United States,Philadelphia,Pennsylvania,90001.0,OFF-8277,Art,Storage Box,1746.5,1,0.3,-203.25,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1,0
+258,CA-2025-207629,2025-05-27,2025-05-31,고객522,Alex Johnson,United States,Unknown,California,75201.0,FUR-2489,Tables,Wooden Bookcase,574.38,8,0.5,81.58,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0
+259,CA-2024-448098,2024-11-18,2024-11-22,고객833,Michael Miller,United States,Philadelphia,Pennsylvania,98101.0,TEC-2868,Phones,Laptop Stand,659.11,1,0.05,169.12,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,1,0
+260,CA-2023-836201,2023-12-16,2023-12-19,고객146,James Smith,United States,Austin,Texas,60601.0,FUR-2752,Tables,Wooden Bookcase,1736.27,5,0.3,24.96,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0
+261,CA-2023-893928,2023-05-04,2023-05-11,고객147,Michael Miller,United States,San Antonio,Texas,95101.0,FUR-8381,Furnishings,Wooden Bookcase,394.34,4,0.5,-18.63,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0
+262,CA-2023-633025,2023-01-05,2023-01-10,고객808,Unknown,United States,Seattle,Washington,98101.0,OFF-2696,Binders,Marker Set,,7,0.3,3.78,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1
+263,CA-2023-386886,2023-11-26,2023-12-01,고객451,David Lee,United States,San Antonio,Texas,60601.0,TEC-7762,Machines,Mobile Phone,758.25,10,0.5,157.28,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1
+264,CA-2024-404694,2024-12-29,2025-01-04,고객788,James Smith,United States,Dallas,Texas,78701.0,OFF-9255,Art,Shipping Labels,1141.59,4,0.05,142.13,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1
+265,CA-2023-844618,2023-04-29,2023-05-06,고객790,Unknown,United States,  philadelphia  ,Pennsylvania,85001.0,TEC-1209,Phones,Wireless Mouse,1015.61,10,0.3,320.53,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,1,0
+266,CA-2023-816586,2023-05-29,2023-05-30,고객249,Unknown,United States,Austin,Texas,98101.0,OFF-4342,Art,Printer Paper,109.44,5,0.05,37.22,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0
+267,CA-2025-688534,2025-04-13,2025-04-17,고객343,Robert Davis,United States,Los Angeles,California,85001.0,OFF-7251,Binders,Storage Box,1112.07,9,0.05,217.35,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0
+268,CA-2023-918859,2023-11-17,2023-11-22,고객949,Priya Patel,United States,New York,New York,98101.0,TEC-9955,Accessories,Laptop Stand,31.23,5,0.05,3.82,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0
+269,CA-2024-495521,2024-04-04,2024-04-06,고객538,David Lee,United States,Austin,Texas,85001.0,OFF-3636,Art,Shipping Labels,141.45,3,0.5,8.25,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,1
+270,CA-2023-725874,,2023-12-09,고객892,Michael Miller,United States,Seattle,Washington,78701.0,FUR-9037,Tables,Office Chair,1687.99,1,0.05,518.51,0,0,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0
+271,CA-2023-267112,2023-11-22,2023-11-27,고객656,Robert Davis,United States,Houston,Texas,90001.0,TEC-4624,Accessories,Laser Printer,1722.92,9,0.0,382.07,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,0
+272,CA-2024-688602,2024-01-05,2024-01-08,고객217,Michael Miller,United States,Houston,Texas,92101.0,OFF-4994,Labels,Shipping Labels,1710.95,10,0.3,59.74,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,1
+273,CA-2025-962043,2025-03-26,2025-03-27,고객626,Daniel Taylor,United States,San Antonio,Texas,92101.0,OFF-1718,Storage,Ring Binder,467.81,5,0.0,138.85,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0
+274,CA-2024-168652,2024-06-10,2024-06-11,고객786,Michael Miller,United States,Los Angeles,California,78701.0,OFF-2702,Paper,Marker Set,307.97,9,0.3,-75.64,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+275,CA-2025-124906,2025-06-18,2025-06-24,고객834,Sarah Wilson,United States,  san antonio  ,Texas,90001.0,TEC-1889,Accessories,Laser Printer,1166.64,2,0.5,188.56,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,0
+276,CA-2023-524094,2023-03-14,2023-03-19,고객423,Alex Johnson,United States,Houston,Texas,78701.0,TEC-9762,Phones,Mobile Phone,1640.49,7,0.2,33.92,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0
+277,CA-2025-211291,,2025-02-19,고객905,Michael Miller,United States,San Jose,California,95101.0,FUR-5612,Furnishings,Conference Table,89.57,2,0.1,27.48,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0
+278,CA-2025-509985,2025-04-21,2025-04-27,고객749,James Smith,United States,New York,New York,78701.0,OFF-1182,Art,Marker Set,857.39,9,5%,-144.19,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0
+279,CA-2023-189261,2023-05-07,2023-05-08,고객315,Ananya Rao,United States,New York,New York,98101.0,FUR-4469,Furnishings,Wooden Bookcase,1034.31,7,0.3,81.21,0,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0
+280,CA-2023-938504,2023-07-08,2023-07-10,고객971,Daniel Taylor,United States,San Jose,California,92101.0,FUR-5762,Bookcases,Desk Lamp,1503.87,4,0.0,-212.32,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0
+281,CA-2023-787313,2023-07-22,2023-07-28,고객202,David Lee,United States,San Jose,California,90001.0,FUR-6206,Furnishings,Conference Table,881.05,6,0.1,-152.48,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,1
+282,CA-2024-946934,2024-09-23,2024-09-29,고객538,James Smith,United States,Phoenix,Arizona,19103.0,OFF-4629,Appliances,Storage Box,1250.68,3,0.3,112.71,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1
+283,CA-2025-476167,2025-05-10,2025-05-13,고객598,Robert Davis,United States,Chicago,Illinois,60601.0,OFF-5597,Paper,Marker Set,1225.81,6,0.2,33.97,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0
+284,CA-2023-762308,2023-09-27,2023-10-03,고객932,Neha Joshi,United States,  austin  ,Texas,78201.0,FUR-1600,Tables,Conference Table,145.02,2,0.0,37.67,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1
+285,CA-2025-240384,2025-03-04,2025-03-06,고객613,Robert Davis,United States,Philadelphia,Pennsylvania,78201.0,TEC-9227,Phones,Laptop Stand,711.36,10,0.5,188.01,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0
+286,CA-2024-693297,2024-12-01,2024-12-03,고객853,Ananya Rao,United States,Dallas,Texas,19103.0,TEC-4585,Copiers,Laptop Stand,259.54,3,0.05,23.31,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,0,0
+287,CA-2023-478799,2023-09-28,2023-10-01,고객580,Emily Brown,United States,Unknown,Texas,10001.0,FUR-2691,Unknown,Desk Lamp,84.71,4,0.3,24.96,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0
+288,CA-2024-976052,2024-07-11,2024-07-16,고객629,David Lee,United States,Chicago,Illinois,77001.0,TEC-6781,Machines,USB Keyboard,682.97,7,0.1,70.08,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0
+289,CA-2024-639535,2024-09-10,2024-09-11,고객316,James Smith,United States,Dallas,Texas,60601.0,OFF-2938,Appliances,Ring Binder,1588.61,8,0.05,-177.93,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0
+290,CA-2025-269078,2025-04-10,2025-04-13,고객122,Priya Patel,United States,Seattle,Washington,60601.0,OFF-3207,Appliances,Marker Set,211.1,8,0.2,-26.09,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1
+291,CA-2024-728471,2024-08-09,2024-08-11,고객999,Ananya Rao,United States,New York,New York,78701.0,FUR-2404,Chairs,Conference Table,306.08,3,0.3,99.46,0,0,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0
+292,CA-2024-710948,2024-04-27,2024-05-04,고객738,Michael Miller,United States,San Diego,California,85001.0,TEC-6614,Copiers,Mobile Phone,313.66,7,0.3,-51.56,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,1
+293,CA-2023-628859,2023-03-12,2023-03-14,고객946,James Smith,United States,San Antonio,Texas,90001.0,TEC-8796,Phones,Mobile Phone,698.75,2,0.0,-89.85,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1
+294,CA-2025-101258,2025-02-09,2025-02-10,고객634,AMIT SHAH,United States,Los Angeles,California,10001.0,TEC-4759,Copiers,USB Keyboard,872.18,3,0.3,64.17,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,1,0
+295,CA-2024-366881,2024-08-26,2024-09-02,고객884,Priya Patel,United States,Seattle,Washington,85001.0,OFF-5223,Paper,Printer Paper,,10,0.0,24.96,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0
+296,CA-2025-786341,,2025-02-07,고객804,Daniel Taylor,United States,New York,New York,78201.0,TEC-2746,Accessories,USB Keyboard,1043.75,2,0.3,-256.43,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0,0,0
+297,CA-2024-388946,2024-08-22,2024-08-25,고객873,Priya Patel,United States,Phoenix,Arizona,75201.0,TEC-3928,Machines,Mobile Phone,1540.12,7,0.3,-47.15,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,1,0
+298,CA-2024-791308,2024-05-10,2024-05-13,고객865,Priya Patel,United States,Phoenix,Arizona,98101.0,TEC-2642,Accessories,Mobile Phone,1043.15,7,0.5,-174.37,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1
+299,CA-2025-766764,2025-03-15,2025-03-18,고객923,Maria Garcia,United States,Dallas,Texas,92101.0,OFF-2444,Unknown,Shipping Labels,1108.33,1,0.05,-18.33,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0
+300,CA-2024-646313,2024-01-15,2024-01-16,고객828,Neha Joshi,United States,San Jose,California,60601.0,FUR-8192,Bookcases,Wooden Bookcase,75.66,7,0.2,8.96,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+191,CA-2023-327797,2023-08-07,2023-08-13,고객202,James Smith,United States,Seattle,Washington,95101.0,TEC-6759,Copiers,Laser Printer,279.26,7,0.3,45.22,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0
+262,CA-2023-633025,2023-01-05,2023-01-10,고객808,Unknown,United States,Seattle,Washington,98101.0,OFF-2696,Binders,Marker Set,95.04,7,0.3,3.78,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1
+176,CA-2025-306647,2025-04-08,2025-04-15,고객216,David Lee,United States,Los Angeles,California,92101.0,TEC-7367,Copiers,Mobile Phone,1042.61,9,0.05,-31.82,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0

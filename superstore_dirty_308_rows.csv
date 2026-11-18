@@ -1,0 +1,309 @@
+Row_ID,Order_ID,Order_Date,Ship_Date,Ship_Mode,Customer_ID,Customer_Name,Segment,Country,City,State,Postal_Code,Region,Product_ID,Category,Sub_Category,Product_Name,Sales,Quantity,Discount,Profit
+1,CA-2023-809570,2023-04-25,2023-04-26,Second Class,고객704,Amit Shah,Consumer,United States,Seattle,Washington,,East,TEC-4582,Technology,Accessories,Mobile Phone,500.85,4,0.05,96.1
+2,CA-2023-717889,2023-01-28,2023-02-02,First Class,고객928,Olivia Martin,Consumer,United States,Houston,Texas,60601,South,TEC-6574,Technology,Machines,Laptop Stand,1291.11,9,0.2,-152.01
+3,CA-2025-733052,2025-02-20,2025-02-23,First Class,고객926,Alex Johnson,Home Office,United States,Los Angeles,California,92101,East,FUR-7201,Furniture,Bookcases,Desk Lamp,174.2,2,0.1,
+4,CA-2024-910620,2024-09-25,2024-10-02,First Class,고객181,Olivia Martin,Consumer,United States,Philadelphia,Pennsylvania,90001,South,TEC-5554,Technology,Copiers,Laser Printer,1042.62,2,0%,153.01
+5,CA-2024-660086,2024-01-15,2024-01-18,Standard Class,고객267,Emily Brown,Corporate,United States,  houston  ,Texas,85001,West,FUR-6313,Furniture,Bookcases,Wooden Bookcase,1208.95,2,0.3,158.36
+6,CA-2025-429963,2025-04-04,2025-04-07,Standard Class,고객771,Emily Brown,Corporate,United States,San Antonio,Texas,78701,South,FUR-3340,Furniture,Tables,Wooden Bookcase,487.79,4,0.3,134.54
+7,CA-2025-518801,2025-02-01,2025-02-06,First Class,고객324,James Smith,Home Office,United States,Dallas,Texas,92101,East,FUR-1771,Furniture,Bookcases,Wooden Bookcase,478.83,10,0.2,138.24
+8,CA-2023-590785,2023-06-13,2023-06-20,,고객666,Olivia Martin,Consumer,United States,Austin,Texas,78701,East,TEC-9797,Technology,Machines,Laser Printer,764.51,2,0.2,-16.08
+9,CA-2023-632342,2023-10-28,2023-11-01,Second Class,고객991,Michael Miller,Corporate,United States,Chicago,Illinois,78701,West,FUR-3504,Furniture,Tables,Wooden Bookcase,821.07,5,0.3,170.11
+10,CA-2025-480612,2025-03-08,2025-03-13,First Class,고객345,Alex Johnson,Consumer,United States,New York,New York,95101,East,TEC-2403,Technology,Copiers,Wireless Mouse,1081.31,8,0.0,-197.75
+11,CA-2025-736059,2025-02-23,2025-02-25,Same Day,고객316,Robert Davis,Home Office,United States,Chicago,Illinois,98101,West,TEC-6107,Technology,Copiers,Laser Printer,1190.27,9,0.05,-108.27
+12,CA-2024-680828,2024-06-13,2024-06-17,Standard Class,고객702,Priya Patel,Consumer,United States,Los Angeles,California,90001,East,OFF-4750,Office Supplies,Labels,Printer Paper,452.25,2,0.1,-107.35
+13,CA-2023-858490,2023-03-14,2023-03-19,Same Day,고객348,Daniel Taylor,Corporate,United States,Houston,Texas,78201,West,OFF-2545,Office Supplies,Labels,Storage Box,507.03,8,0.05,37.29
+14,CA-2024-777568,2024-03-09,2024-03-13,Second Class,고객162,Amit Shah,Home Office,United States,San Diego,California,19103,East,OFF-5073,Office Supplies,Paper,Ring Binder,1556.0,1,0.5,221.07
+15,CA-2024-179046,2024-04-04,2024-04-06,SAME DAY,고객927,Olivia Martin,Home Office,United States,San Antonio,Texas,90001,East,TEC-9856,Technology,Phones,Wireless Mouse,336.81,8,0.05,92.52
+16,CA-2023-102260,2023-06-20,2023-06-24,Same Day,고객371,Daniel Taylor,Corporate,United States,San Diego,California,85001,South,FUR-8973,Furniture,Chairs,Wooden Bookcase,870.59,7,0.0,-131.65
+17,CA-2023-152578,2023-08-11,2023-08-12,Same Day,고객614,Olivia Martin,Home Office,United States,San Jose,California,60601,East,OFF-9320,Office Supplies,Labels,Ring Binder,1326.44,1,0.5,-82.02
+18,CA-2024-697347,2024-09-01,2024-09-02,Standard Class,고객692,,Consumer,United States,Austin,Texas,95101,East,FUR-7868,Furniture,Tables,Desk Lamp,1552.38,7,0.0,488.93
+19,CA-2024-414569,2024-11-16,2024-11-22,Same Day,고객423,Daniel Taylor,Consumer,United States,Philadelphia,Pennsylvania,,South,FUR-2638,Furniture,Bookcases,Wooden Bookcase,435.73,7,0.05,66.67
+20,CA-2023-559469,2023-09-29,2023-10-01,First Class,고객726,Daniel Taylor,Home Office,United States,Philadelphia,Pennsylvania,75201,East,TEC-5905,Technology,Phones,Laptop Stand,1586.51,4,0.1,-125.35
+21,CA-2023-852470,2023-04-29,2023-04-30,First Class,고객308,Michael Miller,Home Office,United States,Seattle,Washington,85001,South,OFF-5114,Office Supplies,Labels,Printer Paper,999.38,5,0.1,112.83
+22,CA-2024-374680,2024-03-09,2024-03-16,Standard Class,고객859,Emily Brown,Home Office,United States,Phoenix,Arizona,98101,South,TEC-1158,Technology,Phones,Wireless Mouse,$87.00,6,0.05,11.51
+23,CA-2023-233636,2023-06-02,2023-06-07,Second Class,고객415,Sarah Wilson,Consumer,United States,New York,New York,19103,West,TEC-5088,Technology,Phones,Laser Printer,1503.59,10,0.3,-242.29
+24,CA-2025-950155,2025-06-14,2025-06-18,Standard Class,고객522,Alex Johnson,Consumer,United States,San Jose,California,98101,Central,TEC-7745,Technology,Accessories,Laser Printer,1351.06,4,0.05,453.58
+25,CA-2025-956253,2025-03-17,2025-03-23,Same Day,고객458,David Lee,Consumer,United States,Los Angeles,California,77001,East,FUR-4164,Furniture,Furnishings,Desk Lamp,693.51,1,0.2,-80.82
+26,CA-2025-984642,2025-06-04,2025-06-05,First Class,고객128,Maria Garcia,Corporate,United States,Phoenix,Arizona,60601,Central,OFF-1626,Office Supplies,Labels,Marker Set,637.25,9,0.2,100.5
+27,CA-2023-704596,2023-12-20,2023-12-26,Standard Class,고객360,Alex Johnson,Home Office,United States,Philadelphia,Pennsylvania,78201,East,OFF-9518,Office Supplies,Art,Ring Binder,790.02,9,0.0,-14.92
+28,CA-2024-230679,03/17/2024,2024-03-18,First Class,고객619,David Lee,Home Office,United States,Austin,Texas,78201,Central,OFF-7592,Office Supplies,Appliances,Shipping Labels,1658.02,10,0.1,245.44
+29,CA-2023-282480,2023-05-11,2023-05-13,First Class,고객515,Robert Davis,Consumer,United States,San Antonio,Texas,85001,Central,TEC-4443,Technology,Copiers,Mobile Phone,1199.55,7,0.5,238.57
+30,CA-2024-934692,2024-11-01,2024-11-04,Standard Class,고객774,Maria Garcia,Corporate,United States,San Diego,California,75201,Central,TEC-2530,Technology,Accessories,Laser Printer,799.68,4,0.3,27.12
+31,CA-2025-905819,2025-04-05,2025-04-07,Second Class,고객566,Amit Shah,Home Office,United States,Chicago,Illinois,95101,West,FUR-7291,Furniture,Furnishings,Conference Table,51.77,4,0.2,6.04
+32,CA-2023-943170,2023-06-01,2023-06-07,Same Day,고객151,Robert Davis,Consumer,United States,Seattle,Washington,90001,South,FUR-3184,Furniture,Furnishings,Desk Lamp,17.94,2,0.2,-2.13
+33,CA-2024-266889,2024-09-19,2024-09-26,Same Day,고객560,David Lee,Consumer,United States,Seattle,Washington,78701,Central,OFF-9540,Office Supplies,Binders,Ring Binder,1606.5,7,0.3,28.19
+34,CA-2024-666390,2024-03-26,2024-03-27,Second Class,고객241,James Smith,Consumer,United States,Seattle,Washington,78201,West,OFF-4505,Office Supplies,Labels,Storage Box,520.02,5,0.1,-30.25
+35,CA-2023-907189,2023-12-05,2023-12-10,Second Class,고객977,Daniel Taylor,Home Office,United States,  san diego  ,California,78201,South,OFF-1096,Office Supplies,Storage,Shipping Labels,753.07,4,0.2,-12.29
+36,CA-2025-611945,2025-05-23,2025-05-30,,고객379,Amit Shah,Corporate,United States,San Antonio,Texas,10001,South,OFF-6507,Office Supplies,Appliances,Storage Box,972.49,9,0.3,280.75
+37,CA-2023-513160,2023-06-19,2023-06-26,Second Class,고객185,Michael Miller,Corporate,United States,San Diego,California,60601,South,TEC-3977,Technology,Phones,Laser Printer,1655.82,10,0.3,-387.16
+38,CA-2023-972335,2023-12-02,2023-12-04,Same Day,고객358,Olivia Martin,Consumer,United States,,California,92101,East,OFF-9837,Office Supplies,Labels,Shipping Labels,593.71,7,0.1,119.46
+39,CA-2024-121369,2024-10-27,2024-10-28,Standard Class,고객344,James Smith,Corporate,United States,  austin  ,Texas,78701,East,FUR-4571,Furniture,Furnishings,Desk Lamp,80.14,1,0.05,-10.45
+40,CA-2023-213349,2023-06-21,2023-06-26,Second Class,고객419,Neha Joshi,Home Office,United States,San Jose,California,78201,South,OFF-4249,Office Supplies,Labels,Marker Set,1735.01,2,0.05,570.53
+41,CA-2025-226935,2025-04-30,2025-05-06,Second Class,고객455,Robert Davis,Corporate,United States,Houston,Texas,78701,Central,TEC-2129,Technology,Machines,Wireless Mouse,190.61,5,50%,21.01
+42,CA-2025-582071,2025-04-22,2025-04-26,Standard Class,고객545,James Smith,Home Office,United States,Los Angeles,California,75201,Central,OFF-9817,Office Supplies,Binders,Storage Box,784.87,6,0.5,223.64
+43,CA-2025-572700,2025-04-25,2025-05-01,Standard Class,고객868,Emily Brown,Home Office,United States,San Jose,California,95101,South,OFF-6511,Office Supplies,Labels,Storage Box,488.96,4,0.0,-40.41
+44,CA-2023-725113,2023-07-06,2023-07-10,First Class,고객669,Alex Johnson,Home Office,United States,Houston,Texas,77001,East,OFF-4954,Office Supplies,Appliances,Storage Box,643.85,5,0.1,-52.93
+45,CA-2024-197573,2024-07-22,2024-07-29,First Class,고객326,Amit Shah,Home Office,United States,Houston,Texas,,Central,OFF-7046,Office Supplies,Binders,Marker Set,1245.57,8,0.2,281.2
+46,CA-2023-421517,2023-12-19,2023-12-23,First Class,고객336,Maria Garcia,Home Office,United States,Seattle,Washington,77001,Central,TEC-2958,Technology,Accessories,Laptop Stand,994.3,6,0.5,22.12
+47,CA-2025-205409,2025-01-26,2025-01-30,,고객403,Priya Patel,Corporate,United States,Phoenix,Arizona,60601,Central,FUR-1231,Furniture,Chairs,Desk Lamp,1306.46,9,0.3,-104.78
+48,CA-2023-614723,2023-02-25,2023-03-02,Second Class,고객993,Alex Johnson,Home Office,United States,  phoenix  ,Arizona,85001,South,FUR-8843,Furniture,Furnishings,Desk Lamp,1257.77,3,0.5,340.95
+49,CA-2023-705050,2023-02-22,2023-02-25,Second Class,고객255,James Smith,Home Office,United States,San Diego,California,85001,East,FUR-5066,Furniture,Bookcases,Conference Table,212.44,2,0.2,9.57
+50,CA-2024-564226,2024-09-02,2024-09-09,First Class,고객980,Neha Joshi,Corporate,United States,San Jose,California,85001,East,TEC-2625,Technology,Accessories,Laptop Stand,412.43,9,0.2,8.38
+51,CA-2024-528361,2024-11-07,2024-11-08,Same Day,고객805,Neha Joshi,Corporate,United States,Chicago,Illinois,85001,East,OFF-4792,Office Supplies,Storage,Shipping Labels,437.84,9,0.0,-68.34
+52,CA-2025-942956,2025-05-30,2025-06-03,Standard Class,고객535,Maria Garcia,Home Office,United States,Los Angeles,California,77001,West,TEC-5352,Technology,Accessories,Wireless Mouse,1239.79,5,0.5,128.78
+53,CA-2023-591465,2023-06-19,2023-06-26,First Class,고객816,Amit Shah,Corporate,United States,Phoenix,Arizona,75201,South,FUR-8172,Furniture,Bookcases,Office Chair,1074.32,10,0.1,14.49
+54,CA-2025-976566,2025-01-22,2025-01-25,Second Class,고객883,Michael Miller,Corporate,United States,San Jose,California,95101,East,OFF-3870,Office Supplies,Binders,Marker Set,456.66,2,0.05,149.39
+55,CA-2024-195674,2024-03-28,2024-03-31,Same Day,고객456,Amit Shah,Corporate,United States,Chicago,Illinois,19103,East,TEC-3634,Technology,Machines,USB Keyboard,1794.53,7,50%,
+56,CA-2024-429795,2024-05-22,2024-05-25,First Class,고객431,Maria Garcia,Corporate,United States,Austin,Texas,75201,East,TEC-9889,Technology,Copiers,USB Keyboard,1701.79,9,0.0,38.96
+57,CA-2023-154118,2023-07-12,2023-07-17,Standard Class,고객373,Robert Davis,Consumer,United States,Philadelphia,Pennsylvania,85001,South,FUR-8941,Furniture,Bookcases,Office Chair,1123.76,8,0.5,17.11
+58,CA-2024-527809,2024-09-15,2024-09-22,Second Class,고객330,Olivia Martin,Consumer,United States,Houston,Texas,92101,East,TEC-3522,Technology,Copiers,Laser Printer,1279.93,5,0.3,-309.48
+59,CA-2024-251668,2024-12-23,2024-12-26,Same Day,고객295,Neha Joshi,Home Office,United States,San Antonio,Texas,98101,West,TEC-2143,Technology,Machines,USB Keyboard,1503.83,8,0.05,36.2
+60,CA-2025-715448,2025-03-17,2025-03-22,SAME DAY,고객986,James Smith,Corporate,United States,Phoenix,Arizona,75201,South,OFF-6654,Office Supplies,Storage,Marker Set,1478.42,5,0.5,-104.77
+61,CA-2024-997594,2024-01-22,2024-01-26,Same Day,고객144,Sarah Wilson,Home Office,United States,Philadelphia,Pennsylvania,92101,South,TEC-7325,Technology,Accessories,USB Keyboard,1566.33,4,0.3,-31.67
+62,CA-2023-579123,2023-05-10,2023-05-15,Second Class,고객839,James Smith,Corporate,United States,San Jose,California,78701,West,FUR-2225,Furniture,Furnishings,Desk Lamp,602.93,2,20%,-114.66
+63,CA-2024-498468,2024-09-30,2024-10-06,First Class,고객741,Ananya Rao,Corporate,United States,San Antonio,Texas,75201,East,OFF-2121,Office Supplies,Paper,Shipping Labels,1172.51,6,0.5,311.42
+64,CA-2025-414012,2025-02-03,2025-02-04,Second Class,고객147,Sarah Wilson,Consumer,United States,San Antonio,Texas,85001,Central,FUR-7141,Furniture,Furnishings,Wooden Bookcase,1761.18,2,0.2,-264.5
+65,CA-2024-739098,2024-06-27,2024-07-01,Same Day,고객734,Michael Miller,Consumer,United States,San Jose,California,92101,West,FUR-4804,Furniture,Furnishings,Desk Lamp,1229.79,3,0.05,-178.27
+66,CA-2023-265649,09/19/2023,2023-09-25,Second Class,고객552,Sarah Wilson,Home Office,United States,New York,New York,85001,South,OFF-5097,Office Supplies,Binders,Shipping Labels,1618.84,8,0.1,253.46
+67,CA-2024-410244,2024-01-29,2024-02-05,First Class,고객122,Olivia Martin,Home Office,United States,San Diego,California,78201,Central,FUR-1132,Furniture,Bookcases,Conference Table,199.12,7,0.3,-6.89
+68,CA-2025-751051,2025-03-05,2025-03-12,First Class,고객794,Daniel Taylor,Home Office,United States,Houston,Texas,78701,West,OFF-2591,Office Supplies,Appliances,Printer Paper,1095.86,6,0.05,144.62
+69,CA-2025-442589,2025-03-18,2025-03-22,Same Day,고객279,Priya Patel,Consumer,United States,New York,New York,75201,Central,OFF-9697,Office Supplies,Art,Shipping Labels,1046.6,3,0.0,309.56
+70,CA-2023-943298,2023-09-21,2023-09-28,Second Class,고객579,Maria Garcia,Consumer,United States,San Diego,California,77001,South,FUR-6992,Furniture,Bookcases,Conference Table,1741.55,5,0.5,474.12
+71,CA-2023-769567,2023-09-28,2023-10-03,First Class,고객210,Michael Miller,Consumer,United States,Los Angeles,California,92101,East,FUR-6374,Furniture,Chairs,Office Chair,822.98,5,0.3,-17.6
+72,CA-2025-139019,2025-04-23,2025-04-27,First Class,고객604,Maria Garcia,Consumer,United States,Seattle,Washington,77001,West,TEC-7367,Technology,Copiers,Laser Printer,549.52,7,0.0,-91.29
+73,CA-2025-974190,2025-01-30,2025-02-05,Same Day,고객730,Amit Shah,Corporate,United States,Dallas,Texas,10001,Central,TEC-4559,Technology,Copiers,USB Keyboard,759.08,3,0.2,108.51
+74,CA-2025-776149,2025-05-25,2025-05-28,First Class,고객162,Amit Shah,Corporate,United States,Los Angeles,California,77001,East,FUR-8450,Furniture,Bookcases,Wooden Bookcase,1765.82,6,0.3,513.88
+75,CA-2024-925206,2024-10-16,2024-10-21,Standard Class,고객170,Olivia Martin,Home Office,United States,New York,New York,77001,West,TEC-4817,Technology,Machines,Laptop Stand,98.64,6,0.05,33.86
+76,CA-2023-215266,2023-01-03,2023-01-06,Second Class,고객234,Alex Johnson,Corporate,United States,Chicago,Illinois,77001,Central,TEC-1258,Technology,Accessories,Laser Printer,1777.65,9,0.1,407.27
+77,CA-2023-479625,2023-05-10,2023-05-16,Second Class,고객562,Robert Davis,Consumer,United States,San Antonio,Texas,95101,East,FUR-9543,Furniture,Tables,Conference Table,950.75,2,0.2,18.03
+78,CA-2023-847006,2023-02-01,2023-02-02,Same Day,고객175,Maria Garcia,Corporate,United States,San Diego,California,95101,West,TEC-2076,Technology,Accessories,Laser Printer,1526.36,7,0.5,-282.72
+79,CA-2024-575755,2024-10-10,2024-10-15,Same Day,고객201,Daniel Taylor,Home Office,United States,Dallas,Texas,90001,West,TEC-8046,Technology,Copiers,Laptop Stand,1284.18,7,0.3,87.75
+80,CA-2023-797416,2023-12-14,2023-12-21,First Class,고객483,James Smith,Home Office,United States,San Diego,California,92101,East,OFF-2494,Office Supplies,Labels,Printer Paper,722.52,2,10%,4.38
+81,CA-2023-688866,2023-04-09,2023-04-15,First Class,고객786,Maria Garcia,Corporate,United States,Seattle,Washington,,South,OFF-1842,Office Supplies,Storage,Marker Set,675.78,3,0.3,-144.62
+82,CA-2023-988432,2023-12-27,2023-12-28,Second Class,고객458,Olivia Martin,Home Office,United States,San Jose,California,19103,East,OFF-5564,Office Supplies,Art,Ring Binder,917.28,3,0.5,36.06
+83,CA-2025-789786,2025-05-15,2025-05-20,First Class,고객129,James Smith,Corporate,United States,San Jose,California,98101,Central,OFF-6567,Office Supplies,Storage,Printer Paper,1107.52,9,0.0,127.8
+84,CA-2025-132146,2025-06-09,2025-06-11,Second Class,고객864,Robert Davis,Consumer,United States,San Jose,California,78201,South,FUR-8432,Furniture,Tables,Wooden Bookcase,1185.96,2,0.05,230.77
+85,CA-2023-155164,2023-11-16,2023-11-22,Standard Class,고객261,Daniel Taylor,Home Office,United States,Philadelphia,Pennsylvania,10001,East,OFF-5458,Office Supplies,Binders,Storage Box,1400.09,10,0.3,-278.65
+86,CA-2024-216276,2024-09-13,2024-09-17,First Class,고객794,Michael Miller,Home Office,United States,San Antonio,Texas,92101,Central,OFF-1744,Office Supplies,Paper,Storage Box,497.51,9,0.0,-21.34
+87,CA-2023-403507,2023-02-26,2023-02-27,First Class,고객222,,Corporate,United States,Houston,Texas,98101,South,TEC-3878,Technology,Accessories,USB Keyboard,548.14,4,0.05,114.29
+88,CA-2024-878086,2024-12-21,2024-12-23,Second Class,고객546,Alex Johnson,Corporate,United States,Dallas,Texas,90001,Central,TEC-8033,Technology,Copiers,USB Keyboard,1009.23,6,0.0,-11.87
+89,CA-2023-823108,2023-04-28,2023-05-02,First Class,고객190,Amit Shah,Consumer,United States,New York,New York,77001,South,OFF-7560,Office Supplies,Art,Printer Paper,1739.43,3,0.3,45.33
+90,CA-2025-763984,2025-06-10,2025-06-13,Second Class,고객643,Robert Davis,Consumer,United States,Seattle,Washington,19103,Central,OFF-3419,Office Supplies,Paper,Printer Paper,616.41,6,0.05,
+91,CA-2023-758452,2023-09-20,2023-09-22,Same Day,고객575,Daniel Taylor,Home Office,United States,Chicago,Illinois,95101,South,FUR-6295,Furniture,Tables,Wooden Bookcase,1087.5,2,0.05,348.84
+92,CA-2023-631981,2023-03-11,2023-03-15,Second Class,고객417,EMILY BROWN,Corporate,United States,San Diego,California,10001,East,OFF-7041,Office Supplies,Storage,Printer Paper,1139.44,5,0.3,-246.46
+93,CA-2025-681242,2025-06-03,2025-06-10,Second Class,고객560,Daniel Taylor,Home Office,United States,Los Angeles,California,78701,West,TEC-6267,Technology,Copiers,Mobile Phone,1110.1,9,0.2,30.67
+94,CA-2023-777513,2023-03-05,2023-03-09,Standard Class,고객140,PRIYA PATEL,Home Office,United States,Los Angeles,California,92101,South,FUR-9586,Furniture,Chairs,Desk Lamp,"$1,461.25",6,0.5,-291.38
+95,CA-2023-778748,2023-10-17,2023-10-21,First Class,고객167,Sarah Wilson,Consumer,United States,San Antonio,Texas,75201,South,OFF-5655,Office Supplies,Storage,Marker Set,1395.84,10,0.0,312.02
+96,CA-2023-832409,2023-12-08,2023-12-09,Same Day,고객232,Neha Joshi,Home Office,United States,San Jose,California,90001,Central,FUR-7171,Furniture,Tables,Wooden Bookcase,1197.19,6,0.1,395.81
+97,CA-2024-543973,2024-12-20,2024-12-27,First Class,고객118,Sarah Wilson,Corporate,United States,Seattle,Washington,60601,West,TEC-6598,Technology,Copiers,Laptop Stand,1794.92,9,0.0,247.01
+98,CA-2023-975686,2023-05-21,2023-05-23,Second Class,고객777,SARAH WILSON,Home Office,United States,Los Angeles,California,60601,South,FUR-3527,Furniture,Chairs,Wooden Bookcase,538.06,2,0.3,114.35
+99,CA-2025-854540,2025-02-28,2025-03-05,Standard Class,고객554,Neha Joshi,Corporate,United States,Chicago,Illinois,98101,South,TEC-4833,Technology,Accessories,Laser Printer,1300.36,1,0.2,-40.86
+100,CA-2025-395459,2025-05-05,2025-05-07,Same Day,고객614,,Corporate,United States,Philadelphia,Pennsylvania,60601,West,OFF-3267,Office Supplies,,Printer Paper,1223.53,10,0.2,33.05
+101,CA-2024-992512,2024-05-07,2024-05-14,Second Class,고객391,Maria Garcia,Consumer,United States,Philadelphia,Pennsylvania,85001,South,TEC-9410,Technology,Accessories,USB Keyboard,1001.74,2,0.5,257.98
+102,CA-2023-626392,2023-08-16,2023-08-23,First Class,고객341,Amit Shah,Consumer,United States,San Diego,California,19103,West,FUR-1461,Furniture,Tables,Office Chair,1593.26,1,0.2,-347.4
+103,CA-2024-245534,2024-10-27,2024-10-30,Same Day,고객559,NEHA JOSHI,Consumer,United States,Chicago,Illinois,,East,TEC-5193,Technology,Accessories,Laptop Stand,254.58,5,0.2,42.68
+104,CA-2025-150068,2025-01-14,2025-01-19,Standard Class,고객529,Michael Miller,Home Office,United States,Dallas,Texas,92101,East,TEC-2816,Technology,Copiers,Mobile Phone,766.47,5,5%,-53.12
+105,CA-2023-744674,2023-01-17,2023-01-23,First Class,고객346,Neha Joshi,Corporate,United States,Dallas,Texas,60601,East,TEC-9576,Technology,Machines,Wireless Mouse,1038.49,3,0.1,7.83
+106,CA-2024-505674,2024-07-11,2024-07-16,First Class,고객359,Ananya Rao,Consumer,United States,Dallas,Texas,19103,East,TEC-6649,Technology,Accessories,Wireless Mouse,1001.04,7,20%,-224.11
+107,CA-2025-774020,2025-01-22,2025-01-29,Standard Class,고객950,Daniel Taylor,Home Office,United States,Philadelphia,Pennsylvania,92101,South,TEC-3986,Technology,Accessories,Wireless Mouse,247.07,6,0.3,-11.58
+108,CA-2025-430926,2025-03-05,2025-03-09,First Class,고객627,Amit Shah,Home Office,United States,New York,New York,92101,Central,TEC-1599,Technology,Accessories,Laser Printer,533.85,1,0.05,150.27
+109,CA-2025-485896,2025-06-01,2025-06-08,Same Day,고객509,Ananya Rao,Corporate,United States,New York,New York,78201,Central,OFF-4060,Office Supplies,Binders,Storage Box,1559.51,6,0.1,-273.41
+110,CA-2025-962287,2025-03-27,2025-04-01,Standard Class,고객658,David Lee,Corporate,United States,Phoenix,Arizona,90001,East,OFF-6372,Office Supplies,Appliances,Shipping Labels,1443.66,7,0.0,12.08
+111,CA-2024-862120,2024-04-01,2024-04-06,First Class,고객729,Amit Shah,Corporate,United States,Seattle,Washington,78701,East,OFF-2229,Office Supplies,Appliances,Storage Box,771.6,8,0.1,14.1
+112,CA-2024-811027,2024-06-09,2024-06-16,Same Day,고객135,JAMES SMITH,Consumer,United States,Seattle,Washington,77001,Central,OFF-6933,Office Supplies,Binders,Marker Set,1225.5,1,0.05,317.65
+113,CA-2024-180620,2024-09-11,2024-09-13,Standard Class,고객642,Sarah Wilson,Corporate,United States,  austin  ,Texas,19103,Central,FUR-5089,Furniture,Bookcases,Office Chair,814.26,6,0.1,13.32
+114,CA-2023-372933,07/10/2023,2023-07-14,Same Day,고객319,Neha Joshi,Corporate,United States,Dallas,Texas,98101,South,TEC-4279,Technology,Phones,Laptop Stand,701.48,9,0.0,-65.19
+115,CA-2024-435112,2024-04-07,2024-04-09,First Class,고객826,Maria Garcia,Home Office,United States,Seattle,Washington,75201,Central,FUR-5914,Furniture,Chairs,Wooden Bookcase,805.64,2,0.5,266.29
+116,CA-2024-127560,2024-06-04,2024-06-06,First Class,고객667,Neha Joshi,Corporate,United States,Los Angeles,California,92101,West,OFF-2412,Office Supplies,,Shipping Labels,1773.36,3,0.05,397.63
+117,CA-2025-432427,2025-01-04,2025-01-10,Second Class,고객560,Emily Brown,Home Office,United States,San Diego,California,75201,Central,OFF-3102,Office Supplies,Art,Marker Set,950.05,7,0.3,-195.47
+118,CA-2025-418897,2025-02-25,2025-02-27,Standard Class,고객265,Sarah Wilson,Home Office,United States,  san antonio  ,Texas,77001,Central,FUR-9501,Furniture,Tables,Office Chair,909.13,1,0%,55.33
+119,CA-2023-626986,2023-07-21,2023-07-27,Standard Class,고객706,,Consumer,United States,Dallas,Texas,60601,Central,OFF-1674,Office Supplies,Labels,Printer Paper,499.82,5,0.3,35.03
+120,CA-2024-770030,2024-10-18,2024-10-25,Second Class,고객609,Michael Miller,Home Office,United States,San Jose,California,85001,Central,FUR-8912,Furniture,Chairs,Conference Table,482.26,4,0.3,-0.02
+121,CA-2024-313933,2024-04-09,2024-04-10,First Class,고객721,JAMES SMITH,Corporate,United States,Seattle,Washington,98101,Central,OFF-6658,Office Supplies,Binders,Ring Binder,115.36,8,0.2,4.68
+122,CA-2024-359961,2024-06-11,2024-06-16,Standard Class,고객199,Alex Johnson,Corporate,United States,Los Angeles,California,78201,South,OFF-5067,Office Supplies,Paper,Shipping Labels,579.86,8,0.0,-51.91
+123,CA-2025-423528,2025-01-08,2025-01-11,Same Day,고객123,Maria Garcia,Corporate,United States,Houston,Texas,,South,TEC-4944,Technology,Accessories,Mobile Phone,1375.51,8,0.3,41.39
+124,CA-2023-988324,2023-02-19,2023-02-20,Second Class,고객541,JAMES SMITH,Corporate,United States,Phoenix,Arizona,98101,Central,OFF-7606,Office Supplies,Storage,Printer Paper,894.85,8,0.1,64.44
+125,CA-2023-628750,2023-02-22,2023-02-27,SAME DAY,고객882,Robert Davis,Corporate,United States,Dallas,Texas,95101,East,OFF-3108,Office Supplies,Labels,Storage Box,356.82,9,0.1,-73.46
+126,CA-2025-520884,2025-03-24,2025-03-27,Second Class,고객146,Alex Johnson,Consumer,United States,Dallas,Texas,98101,Central,OFF-8761,Office Supplies,Art,Storage Box,1690.6,3,0.05,188.46
+127,CA-2024-746447,2024-09-12,2024-09-17,First Class,고객707,Sarah Wilson,Home Office,United States,Chicago,Illinois,75201,South,FUR-5911,Furniture,Furnishings,Office Chair,595.71,10,0.1,-90.85
+128,CA-2023-860557,2023-12-06,2023-12-12,Second Class,고객711,Emily Brown,Corporate,United States,  los angeles  ,California,78701,West,OFF-1841,Office Supplies,Art,Storage Box,1763.98,10,10%,402.28
+129,CA-2024-353961,2024-06-20,2024-06-26,SECOND CLASS,고객686,Ananya Rao,Consumer,United States,Seattle,Washington,77001,East,FUR-8225,Furniture,Tables,Conference Table,1118.57,7,0.05,271.81
+130,CA-2024-871581,2024-02-27,2024-03-04,Second Class,고객822,James Smith,Home Office,United States,Houston,Texas,77001,Central,FUR-8837,Furniture,Furnishings,Desk Lamp,743.4,10,0.2,203.46
+131,CA-2024-358494,2024-04-15,2024-04-20,First Class,고객671,David Lee,Consumer,United States,Philadelphia,Pennsylvania,85001,Central,FUR-4396,Furniture,Furnishings,Desk Lamp,986.92,5,0.3,39.98
+132,CA-2023-498138,2023-12-24,2023-12-29,SAME DAY,고객938,Sarah Wilson,Consumer,United States,Seattle,Washington,85001,East,OFF-5712,Office Supplies,Appliances,Printer Paper,498.04,2,0.3,77.68
+133,CA-2024-384303,2024-03-28,2024-04-03,FIRST CLASS,고객240,Maria Garcia,Home Office,United States,Phoenix,Arizona,98101,West,OFF-4972,Office Supplies,Labels,Marker Set,1347.23,4,0.05,332.46
+134,CA-2024-814281,2024-10-15,2024-10-17,Standard Class,고객105,Robert Davis,Consumer,United States,New York,New York,78201,South,FUR-8822,Furniture,Chairs,Desk Lamp,187.55,6,0.5,
+135,CA-2023-661147,2023-10-20,2023-10-26,Second Class,고객279,Amit Shah,Consumer,United States,  new york  ,New York,10001,South,OFF-9116,Office Supplies,Paper,Shipping Labels,1635.02,2,0.5,154.48
+136,CA-2023-772464,2023-01-10,2023-01-13,Same Day,고객237,OLIVIA MARTIN,Home Office,United States,San Jose,California,92101,Central,FUR-4159,Furniture,Bookcases,Desk Lamp,1088.19,6,0.1,24.6
+137,CA-2025-929179,2025-01-18,2025-01-22,First Class,고객681,Michael Miller,Consumer,United States,Austin,Texas,60601,South,FUR-8007,Furniture,Tables,Office Chair,469.02,3,0.0,90.04
+138,CA-2024-107161,2024-11-16,2024-11-17,First Class,고객492,PRIYA PATEL,Corporate,United States,Chicago,Illinois,85001,Central,OFF-5947,Office Supplies,Art,Marker Set,1767.18,8,0.1,550.47
+139,CA-2023-421709,2023-09-25,2023-10-01,Standard Class,고객515,Michael Miller,Home Office,United States,Philadelphia,Pennsylvania,98101,Central,FUR-2923,Furniture,Tables,Desk Lamp,1249.44,1,0.5,-223.73
+140,CA-2023-491774,2023-08-15,2023-08-17,Same Day,고객818,Robert Davis,Corporate,United States,Chicago,Illinois,75201,West,TEC-5054,Technology,Phones,Mobile Phone,864.9,8,0.5,296.92
+141,CA-2024-674251,2024-06-24,2024-06-30,Standard Class,고객686,Robert Davis,Consumer,United States,Philadelphia,Pennsylvania,60601,Central,OFF-9525,Office Supplies,Binders,Printer Paper,$147.96,10,0.0,-31.51
+142,CA-2023-575458,2023-07-30,2023-08-05,Standard Class,고객625,Amit Shah,Corporate,United States,San Jose,California,,East,TEC-8575,Technology,,Wireless Mouse,883.98,9,0.2,207.93
+143,CA-2023-461264,2023-09-18,2023-09-25,Second Class,고객654,Alex Johnson,Consumer,United States,New York,New York,92101,East,OFF-5703,Office Supplies,Binders,Ring Binder,1344.48,10,0.0,-299.59
+144,CA-2025-501058,02/23/2025,2025-03-01,Same Day,고객990,Amit Shah,Corporate,United States,Seattle,Washington,90001,West,FUR-6697,Furniture,Bookcases,Wooden Bookcase,1165.42,7,0.1,402.9
+145,CA-2024-412856,2024-02-07,2024-02-12,Same Day,고객789,Ananya Rao,Home Office,United States,Chicago,Illinois,78201,South,TEC-4762,Technology,Accessories,USB Keyboard,1312.32,4,0.0,267.33
+146,CA-2023-539605,2023-06-08,2023-06-11,,고객346,Priya Patel,Consumer,United States,Houston,Texas,90001,East,OFF-8314,Office Supplies,Art,Printer Paper,1687.84,2,0.0,397.8
+147,CA-2025-913761,2025-01-28,2025-01-29,Second Class,고객243,,Corporate,United States,San Antonio,Texas,77001,Central,FUR-6253,Furniture,Chairs,Desk Lamp,794.62,9,0.05,161.01
+148,CA-2024-720407,2024-11-07,2024-11-12,Standard Class,고객741,Michael Miller,Corporate,United States,  houston  ,Texas,75201,South,FUR-1768,Furniture,Tables,Conference Table,749.1,5,0.0,62.95
+149,CA-2023-664058,2023-11-23,2023-11-29,Same Day,고객346,Olivia Martin,Consumer,United States,San Antonio,Texas,85001,West,TEC-8586,Technology,Phones,Mobile Phone,739.6,5,0.2,-103.3
+150,CA-2024-778120,2024-03-02,2024-03-07,Second Class,고객560,Olivia Martin,Corporate,United States,Dallas,Texas,90001,West,OFF-1844,Office Supplies,Storage,Storage Box,248.29,4,0.1,-31.78
+151,CA-2024-685997,2024-09-11,2024-09-16,Standard Class,고객590,Priya Patel,Corporate,United States,,New York,85001,East,TEC-4470,Technology,Accessories,Wireless Mouse,1573.53,4,0.3,290.45
+152,CA-2025-678897,2025-02-11,2025-02-15,First Class,고객894,David Lee,Corporate,United States,Houston,Texas,92101,Central,TEC-6053,Technology,Machines,Laser Printer,1254.56,4,0.2,375.21
+153,CA-2024-488712,2024-05-24,2024-05-28,First Class,고객523,Alex Johnson,Home Office,United States,Los Angeles,California,77001,West,TEC-1265,Technology,Machines,Mobile Phone,1446.65,8,0.1,431.97
+154,CA-2024-697467,2024-08-16,2024-08-22,Standard Class,고객611,Robert Davis,Home Office,United States,San Antonio,Texas,78701,Central,TEC-5216,Technology,Copiers,USB Keyboard,536.98,4,0.1,-60.14
+155,CA-2023-668471,2023-06-22,2023-06-28,Second Class,고객636,Alex Johnson,Consumer,United States,Philadelphia,Pennsylvania,78701,East,OFF-1104,Office Supplies,Binders,Ring Binder,311.32,9,0.2,-43.45
+156,CA-2023-163386,2023-08-25,2023-08-26,Same Day,고객775,Emily Brown,Consumer,United States,Seattle,Washington,10001,South,TEC-1194,Technology,Phones,Mobile Phone,278.65,4,0.3,6.58
+157,CA-2023-200992,2023-10-09,2023-10-14,Standard Class,고객346,Priya Patel,Home Office,United States,Phoenix,Arizona,75201,Central,TEC-6807,Technology,Machines,USB Keyboard,38.72,7,0.05,-7.19
+158,CA-2024-989053,2024-01-18,2024-01-22,Second Class,고객769,Olivia Martin,Home Office,United States,San Diego,California,10001,East,FUR-7640,Furniture,Furnishings,Conference Table,1020.48,4,0.1,163.71
+159,CA-2024-554987,2024-05-02,2024-05-03,First Class,고객679,Olivia Martin,Consumer,United States,Austin,Texas,75201,East,TEC-4764,Technology,Accessories,Mobile Phone,24.93,3,0.0,1.24
+160,CA-2023-134500,2023-10-05,2023-10-06,Standard Class,고객970,Sarah Wilson,Consumer,United States,Los Angeles,California,77001,West,OFF-7525,Office Supplies,Labels,Shipping Labels,1234.5,5,0.3,108.77
+161,CA-2024-447843,2024-07-31,2024-08-02,Same Day,고객873,ANANYA RAO,Consumer,United States,San Jose,California,98101,East,FUR-9204,Furniture,Tables,Office Chair,1503.69,7,0.5,432.94
+162,CA-2024-911131,2024-03-23,2024-03-25,First Class,고객130,Michael Miller,Corporate,United States,  los angeles  ,California,92101,South,FUR-4737,Furniture,Tables,Conference Table,$618.34,10,0.3,-7.41
+163,CA-2023-358421,2023-07-10,2023-07-16,Second Class,고객184,David Lee,Consumer,United States,San Jose,California,78201,West,OFF-7383,Office Supplies,Storage,Shipping Labels,1191.92,2,0.3,-86.74
+164,CA-2023-296494,2023-04-04,2023-04-05,Same Day,고객559,Robert Davis,Home Office,United States,Phoenix,Arizona,75201,South,FUR-2692,Furniture,Bookcases,Office Chair,804.97,5,0.0,-137.24
+165,CA-2024-533911,2024-07-21,2024-07-22,Same Day,고객897,Maria Garcia,Home Office,United States,San Jose,California,75201,West,OFF-9537,Office Supplies,Paper,Storage Box,1079.69,6,0.2,-261.93
+166,CA-2023-389366,2023-05-23,2023-05-26,Same Day,고객406,Emily Brown,Consumer,United States,Phoenix,Arizona,19103,Central,FUR-5040,Furniture,Furnishings,Wooden Bookcase,488.98,3,0.0,-73.19
+167,CA-2023-498343,2023-04-20,2023-04-22,First Class,고객550,Sarah Wilson,Corporate,United States,Phoenix,Arizona,78701,West,OFF-5922,Office Supplies,Storage,Marker Set,20.13,7,0.1,5.13
+168,CA-2023-828716,2023-07-25,2023-07-29,Same Day,고객689,Daniel Taylor,Consumer,United States,Philadelphia,Pennsylvania,19103,South,TEC-5592,Technology,Copiers,Laser Printer,326.33,7,0.1,-24.52
+169,CA-2024-128223,2024-07-31,2024-08-02,Same Day,고객825,Priya Patel,Corporate,United States,San Jose,California,85001,East,FUR-7703,Furniture,Furnishings,Wooden Bookcase,1795.1,3,0.5,378.0
+170,CA-2023-726979,2023-11-07,2023-11-09,Same Day,고객696,Amit Shah,Home Office,United States,Phoenix,Arizona,75201,South,TEC-9907,Technology,Phones,Laser Printer,1188.32,7,0.2,-244.34
+171,CA-2025-789545,2025-04-11,2025-04-16,First Class,고객270,Michael Miller,Home Office,United States,San Jose,California,10001,South,TEC-6432,Technology,Copiers,Wireless Mouse,1151.62,2,0.0,243.42
+172,CA-2023-703178,2023-04-11,2023-04-14,Standard Class,고객556,Sarah Wilson,Corporate,United States,Houston,Texas,92101,West,FUR-6651,Furniture,Bookcases,Conference Table,923.13,9,0.3,90.75
+173,CA-2023-577450,2023-10-30,2023-11-03,Standard Class,고객633,Emily Brown,Corporate,United States,Los Angeles,California,92101,East,FUR-8178,Furniture,Furnishings,Desk Lamp,216.0,3,0.1,-13.58
+174,CA-2023-938913,2023-11-04,2023-11-05,STANDARD CLASS,고객858,Priya Patel,Home Office,United States,Seattle,Washington,60601,West,FUR-6422,Furniture,Furnishings,Conference Table,214.23,6,0.5,-39.5
+175,CA-2025-743937,2025-03-27,2025-03-31,Standard Class,고객560,Neha Joshi,Corporate,United States,,Texas,78201,East,FUR-4519,Furniture,Chairs,Desk Lamp,338.54,7,0.2,-78.71
+176,CA-2025-306647,2025-04-08,2025-04-15,Same Day,고객216,David Lee,Home Office,United States,  los angeles  ,California,92101,Central,TEC-7367,Technology,Copiers,Mobile Phone,1042.61,9,0.05,-31.82
+177,CA-2023-804758,2023-12-23,2023-12-26,Standard Class,고객420,Maria Garcia,Consumer,United States,San Diego,California,85001,East,FUR-3999,Furniture,Tables,Wooden Bookcase,1114.31,5,0.3,116.0
+178,CA-2024-766371,2024-02-02,2024-02-06,Standard Class,고객668,James Smith,Corporate,United States,San Jose,California,85001,West,TEC-4065,Technology,,USB Keyboard,255.06,7,0.2,-35.34
+179,CA-2023-502594,2023-02-24,2023-03-03,Same Day,고객518,Michael Miller,Corporate,United States,Philadelphia,Pennsylvania,78201,South,TEC-9006,Technology,,Wireless Mouse,1713.7,8,0.05,-227.79
+180,CA-2023-276379,2023-02-01,2023-02-08,Same Day,고객679,Ananya Rao,Corporate,United States,Houston,Texas,75201,East,TEC-2871,Technology,Machines,Mobile Phone,531.43,5,0.05,38.56
+181,CA-2024-545807,2024-07-09,2024-07-16,Second Class,고객853,Olivia Martin,Home Office,United States,  new york  ,New York,,Central,OFF-1528,Office Supplies,Binders,Shipping Labels,1369.93,8,0.3,-162.85
+182,CA-2025-873443,2025-06-01,2025-06-08,First Class,고객981,ANANYA RAO,Home Office,United States,Los Angeles,California,78701,South,OFF-3719,Office Supplies,Art,Ring Binder,794.81,2,0.05,-98.61
+183,CA-2025-276556,2025-04-13,2025-04-15,First Class,고객820,David Lee,Corporate,United States,New York,New York,95101,Central,FUR-9428,Furniture,Bookcases,Wooden Bookcase,1029.57,9,10%,111.31
+184,CA-2023-437742,2023-03-02,2023-03-05,Standard Class,고객879,Olivia Martin,Home Office,United States,Austin,Texas,78201,South,OFF-3329,Office Supplies,Art,Shipping Labels,235.38,3,0.05,-38.19
+185,CA-2024-391740,2024-02-29,2024-03-04,First Class,고객565,Emily Brown,Corporate,United States,San Diego,California,,East,TEC-2526,Technology,Copiers,Laser Printer,143.33,2,0.2,8.51
+186,CA-2025-438548,2025-03-25,2025-03-30,First Class,고객445,Robert Davis,Home Office,United States,San Antonio,Texas,60601,South,FUR-6631,Furniture,Bookcases,Office Chair,398.35,7,0.05,18.65
+187,CA-2024-548580,2024-10-03,2024-10-10,Standard Class,고객805,James Smith,Home Office,United States,San Diego,California,85001,West,FUR-5489,Furniture,Bookcases,Desk Lamp,37.18,3,0.2,0.89
+188,CA-2023-420349,2023-03-26,2023-03-29,Standard Class,고객539,Michael Miller,Consumer,United States,Austin,Texas,98101,East,OFF-1017,Office Supplies,Paper,Storage Box,1627.61,3,0.0,-19.85
+189,CA-2023-460263,2023-05-16,2023-05-21,Second Class,고객980,Amit Shah,Home Office,United States,Houston,Texas,60601,South,FUR-2160,Furniture,Chairs,Conference Table,938.84,8,0.0,-230.17
+190,CA-2025-911032,2025-01-18,2025-01-25,Standard Class,고객756,Michael Miller,Consumer,United States,Los Angeles,California,90001,East,FUR-3688,Furniture,Furnishings,Desk Lamp,192.94,6,0.1,-32.36
+191,CA-2023-327797,2023-08-07,2023-08-13,Second Class,고객202,James Smith,Consumer,United States,Seattle,Washington,95101,South,TEC-6759,Technology,Copiers,Laser Printer,$279.26,7,0.3,45.22
+192,CA-2023-737107,2023-09-11,2023-09-14,First Class,고객897,Ananya Rao,Consumer,United States,Austin,Texas,78701,Central,FUR-4366,Furniture,Chairs,Conference Table,158.97,9,0.3,17.49
+193,CA-2024-722780,2024-10-23,2024-10-24,Second Class,고객640,Alex Johnson,Corporate,United States,Houston,Texas,19103,West,OFF-7337,Office Supplies,Art,Storage Box,894.84,2,0.05,44.52
+194,CA-2024-114463,2024-07-13,2024-07-19,FIRST CLASS,고객320,Alex Johnson,Consumer,United States,Chicago,Illinois,78201,Central,OFF-9209,Office Supplies,Binders,Storage Box,1374.8,2,0.0,140.8
+195,CA-2024-424960,2024-02-16,2024-02-17,Second Class,고객623,Priya Patel,Consumer,United States,Austin,Texas,75201,Central,TEC-7401,Technology,Phones,Laser Printer,969.52,10,0.05,-80.97
+196,CA-2024-742039,2024-03-23,2024-03-29,Second Class,고객416,Michael Miller,Home Office,United States,  houston  ,Texas,78701,West,TEC-2956,Technology,Phones,Laptop Stand,111.77,2,0.2,-20.16
+197,CA-2023-855777,2023-01-12,2023-01-14,First Class,고객270,Sarah Wilson,Consumer,United States,San Diego,California,98101,Central,TEC-2934,Technology,Phones,Laser Printer,1715.81,9,0.3,377.12
+198,CA-2023-577309,2023-10-06,2023-10-11,First Class,고객156,Emily Brown,Home Office,United States,Los Angeles,California,60601,Central,OFF-3577,Office Supplies,Storage,Printer Paper,479.21,10,0.5,-97.64
+199,CA-2024-112884,2024-11-21,2024-11-27,Standard Class,고객147,Emily Brown,Corporate,United States,Los Angeles,California,78201,West,TEC-3932,Technology,Phones,Mobile Phone,417.3,9,0.0,-93.3
+200,CA-2025-435476,2025-01-28,2025-02-03,First Class,고객945,Maria Garcia,Home Office,United States,San Antonio,Texas,19103,East,TEC-9225,Technology,Phones,Laptop Stand,410.33,4,0.2,122.9
+201,CA-2025-911102,2025-04-03,2025-04-08,First Class,고객435,Maria Garcia,Home Office,United States,New York,New York,92101,East,FUR-7044,Furniture,Chairs,Desk Lamp,1717.71,2,0.2,463.13
+202,CA-2025-617326,2025-03-14,2025-03-17,Standard Class,고객850,Robert Davis,Consumer,United States,Seattle,Washington,60601,East,TEC-7718,Technology,Phones,Laptop Stand,1123.91,8,0.1,118.03
+203,CA-2023-494552,2023-12-21,2023-12-27,First Class,고객206,Priya Patel,Home Office,United States,Seattle,Washington,,South,TEC-9061,Technology,Phones,Laptop Stand,1579.94,6,0.0,324.45
+204,CA-2023-490586,10/14/2023,2023-10-15,Same Day,고객865,Maria Garcia,Home Office,United States,New York,New York,90001,West,TEC-7461,Technology,Phones,Mobile Phone,1658.92,9,0.2,282.86
+205,CA-2023-430310,2023-03-05,2023-03-09,Same Day,고객817,Olivia Martin,Home Office,United States,  austin  ,Texas,,Central,TEC-8417,Technology,Machines,Laptop Stand,1735.88,4,0.1,-162.14
+206,CA-2023-429287,2023-07-27,2023-07-29,Same Day,고객223,Robert Davis,Corporate,United States,San Jose,California,77001,South,FUR-6051,Furniture,Furnishings,Desk Lamp,203.28,2,0.05,4.01
+207,CA-2023-998182,2023-04-03,2023-04-05,First Class,고객251,Maria Garcia,Home Office,United States,Austin,Texas,77001,Central,FUR-7492,Furniture,Bookcases,Desk Lamp,553.15,10,0.0,
+208,CA-2025-361989,2025-04-19,2025-04-21,Second Class,고객573,Maria Garcia,Consumer,United States,New York,New York,,East,OFF-2010,Office Supplies,Paper,Ring Binder,1714.16,8,0.3,340.86
+209,CA-2025-952227,2025-04-23,2025-04-27,Second Class,고객122,Maria Garcia,Consumer,United States,Philadelphia,Pennsylvania,78701,South,FUR-3110,Furniture,Bookcases,Desk Lamp,1237.82,2,0.3,
+210,CA-2023-514186,2023-02-13,2023-02-17,Same Day,고객130,Amit Shah,Home Office,United States,New York,New York,78201,West,FUR-6799,Furniture,Chairs,Wooden Bookcase,309.04,10,0.2,75.1
+211,CA-2023-409440,2023-10-14,2023-10-18,Same Day,고객521,Robert Davis,Corporate,United States,Chicago,Illinois,10001,East,OFF-5583,Office Supplies,Binders,Ring Binder,70.09,10,0.3,-7.19
+212,CA-2023-919898,2023-07-24,2023-07-30,First Class,고객591,Robert Davis,Corporate,United States,  dallas  ,Texas,19103,Central,OFF-7363,Office Supplies,Storage,Ring Binder,454.47,9,0.0,156.18
+213,CA-2023-594596,2023-11-23,2023-11-28,First Class,고객885,Neha Joshi,Consumer,United States,Houston,Texas,60601,East,FUR-5060,Furniture,Chairs,Desk Lamp,60.51,5,0.0,14.23
+214,CA-2025-936124,2025-04-15,2025-04-22,Same Day,고객463,Olivia Martin,Consumer,United States,Seattle,Washington,60601,West,TEC-6210,Technology,Machines,Mobile Phone,108.19,4,0.3,27.9
+215,CA-2024-297377,2024-12-21,2024-12-27,Same Day,고객655,David Lee,Consumer,United States,Philadelphia,Pennsylvania,92101,East,FUR-2478,Furniture,Bookcases,Wooden Bookcase,1706.03,10,0.05,149.9
+216,CA-2023-236828,2023-08-13,2023-08-14,First Class,고객834,James Smith,Corporate,United States,Dallas,Texas,10001,East,TEC-3420,Technology,Accessories,Wireless Mouse,864.56,6,0.3,-111.63
+217,CA-2025-416423,05/31/2025,2025-06-03,First Class,고객239,James Smith,Home Office,United States,Los Angeles,California,78201,South,TEC-6198,Technology,Accessories,Mobile Phone,677.47,7,0.3,-128.3
+218,CA-2024-869649,2024-09-20,2024-09-27,First Class,고객230,James Smith,Home Office,United States,Philadelphia,Pennsylvania,10001,South,TEC-1530,Technology,Accessories,Mobile Phone,408.04,10,0.05,-9.37
+219,CA-2025-881549,2025-04-08,2025-04-13,Second Class,고객343,Sarah Wilson,Corporate,United States,Houston,Texas,60601,East,OFF-6500,Office Supplies,Binders,Printer Paper,1154.25,2,0.2,-191.16
+220,CA-2023-150486,2023-08-03,2023-08-05,Same Day,고객548,Ananya Rao,Corporate,United States,Seattle,Washington,60601,South,OFF-9078,Office Supplies,Binders,Shipping Labels,129.49,5,0.0,23.6
+221,CA-2024-336540,2024-01-20,2024-01-21,Standard Class,고객562,Maria Garcia,Consumer,United States,San Diego,California,85001,East,TEC-6221,Technology,Machines,Wireless Mouse,1421.4,10,0.5,291.31
+222,CA-2023-197627,2023-12-17,2023-12-19,First Class,고객708,Neha Joshi,Corporate,United States,San Antonio,Texas,98101,East,FUR-8066,Furniture,Chairs,Conference Table,296.34,2,0.3,93.38
+223,CA-2023-857111,2023-02-24,2023-02-25,First Class,고객776,David Lee,Corporate,United States,Philadelphia,Pennsylvania,77001,East,FUR-1813,Furniture,Furnishings,Conference Table,376.35,4,0.2,63.35
+224,CA-2023-603660,2023-02-25,2023-02-28,Standard Class,고객199,Alex Johnson,Consumer,United States,New York,New York,60601,Central,FUR-2342,Furniture,Furnishings,Office Chair,774.27,5,0.5,96.83
+225,CA-2025-506351,2025-03-14,2025-03-18,Standard Class,고객479,Amit Shah,Corporate,United States,San Diego,California,60601,South,OFF-1731,Office Supplies,Storage,Storage Box,884.46,5,0.0,119.51
+226,CA-2023-189870,2023-09-27,2023-09-29,First Class,고객927,Robert Davis,Corporate,United States,Phoenix,Arizona,95101,West,OFF-1999,Office Supplies,Binders,Marker Set,1019.13,3,0.5,153.36
+227,CA-2024-513982,2024-07-02,2024-07-08,SECOND CLASS,고객614,Neha Joshi,Home Office,United States,San Diego,California,95101,West,OFF-2970,Office Supplies,Binders,Ring Binder,1034.3,4,0.2,-73.11
+228,CA-2023-556542,2023-08-05,2023-08-12,Standard Class,고객942,Michael Miller,Consumer,United States,Houston,Texas,95101,Central,FUR-6238,Furniture,Bookcases,Office Chair,234.13,7,0.0,80.3
+229,CA-2024-112964,2024-07-23,2024-07-27,Same Day,고객215,Amit Shah,Consumer,United States,Dallas,Texas,60601,East,OFF-2730,Office Supplies,Art,Printer Paper,592.42,5,0.3,14.75
+230,CA-2025-699809,2025-06-07,2025-06-12,Same Day,고객138,James Smith,Corporate,United States,Philadelphia,Pennsylvania,78201,West,OFF-7581,Office Supplies,Labels,Storage Box,1581.19,5,0.2,225.91
+231,CA-2024-957091,2024-12-08,2024-12-10,First Class,고객418,David Lee,Corporate,United States,New York,New York,98101,East,OFF-4734,Office Supplies,Paper,Shipping Labels,1344.38,5,0.1,-319.77
+232,CA-2024-297064,2024-03-29,2024-04-05,Same Day,고객316,Olivia Martin,Corporate,United States,Philadelphia,Pennsylvania,98101,South,TEC-9462,Technology,Machines,Wireless Mouse,490.8,7,0.3,67.4
+233,CA-2025-992647,2025-03-21,2025-03-23,Second Class,고객277,Priya Patel,Consumer,United States,Los Angeles,California,10001,West,TEC-1541,Technology,Copiers,Wireless Mouse,565.53,9,0.2,
+234,CA-2024-229890,2024-12-22,2024-12-24,Second Class,고객347,Sarah Wilson,Corporate,United States,Phoenix,Arizona,95101,South,OFF-3909,Office Supplies,Binders,Marker Set,668.09,8,0.3,-7.91
+235,CA-2023-194782,2023-12-25,2023-12-28,FIRST CLASS,고객128,Amit Shah,Consumer,United States,Chicago,Illinois,60601,West,TEC-4626,Technology,Accessories,Laptop Stand,1509.08,5,0.5,375.04
+236,CA-2024-778818,2024-10-29,2024-11-02,STANDARD CLASS,고객715,Daniel Taylor,Consumer,United States,Dallas,Texas,77001,Central,OFF-6004,Office Supplies,Appliances,Shipping Labels,43.93,1,0.2,13.04
+237,CA-2024-645928,2024-01-21,2024-01-28,Same Day,고객698,Maria Garcia,Consumer,United States,Philadelphia,Pennsylvania,75201,Central,OFF-5631,Office Supplies,Storage,Printer Paper,830.52,4,0.2,-57.07
+238,CA-2023-783112,2023-03-07,2023-03-10,First Class,고객292,James Smith,Home Office,United States,Phoenix,Arizona,77001,East,OFF-7620,Office Supplies,Appliances,Shipping Labels,1155.95,5,0.1,166.08
+239,CA-2023-524252,2023-05-24,2023-05-30,Same Day,고객854,Alex Johnson,Home Office,United States,New York,New York,98101,West,TEC-6622,Technology,Accessories,Mobile Phone,1182.48,5,0.1,347.82
+240,CA-2025-685365,2025-03-14,2025-03-18,Standard Class,고객400,Maria Garcia,Corporate,United States,Austin,Texas,60601,Central,TEC-3999,Technology,Machines,Wireless Mouse,650.43,5,0.05,165.46
+241,CA-2023-714015,2023-12-30,2024-01-01,First Class,고객574,Olivia Martin,Consumer,United States,Seattle,Washington,92101,East,FUR-2166,Furniture,Furnishings,Wooden Bookcase,1569.61,7,0.1,-42.36
+242,CA-2023-995735,2023-05-03,2023-05-10,Standard Class,고객240,Priya Patel,Corporate,United States,Austin,Texas,78201,South,TEC-3346,Technology,Machines,Laptop Stand,691.95,5,0.2,-150.54
+243,CA-2024-574012,2024-05-14,2024-05-17,First Class,고객314,Daniel Taylor,Consumer,United States,Austin,Texas,95101,West,FUR-9021,Furniture,Bookcases,Wooden Bookcase,1776.06,6,0.5,-382.19
+244,CA-2024-659711,2024-03-20,2024-03-26,Standard Class,고객848,SARAH WILSON,Consumer,United States,San Antonio,Texas,19103,West,TEC-1293,Technology,Phones,Laptop Stand,730.88,8,0.2,-180.67
+245,CA-2024-275133,12/11/2024,2024-12-14,Second Class,고객943,Alex Johnson,Corporate,United States,Phoenix,Arizona,85001,South,FUR-9524,Furniture,Tables,Conference Table,239.04,7,0.3,24.67
+246,CA-2023-951452,2023-05-18,2023-05-21,Same Day,고객119,Priya Patel,Consumer,United States,San Diego,California,98101,West,TEC-4460,Technology,Phones,Mobile Phone,651.78,4,0.05,207.82
+247,CA-2023-368214,2023-06-23,2023-06-24,SECOND CLASS,고객708,Alex Johnson,Home Office,United States,Philadelphia,Pennsylvania,90001,East,TEC-1790,Technology,Phones,USB Keyboard,"$1,282.31",1,0.2,353.82
+248,CA-2024-760929,2024-01-25,2024-01-26,SECOND CLASS,고객408,Amit Shah,Home Office,United States,Dallas,Texas,90001,Central,OFF-3247,Office Supplies,Binders,Printer Paper,460.91,3,0.05,77.03
+249,CA-2025-309452,2025-01-06,2025-01-11,First Class,고객951,Robert Davis,Consumer,United States,Los Angeles,California,19103,South,TEC-5839,Technology,Accessories,Wireless Mouse,514.61,2,0.2,-67.32
+250,CA-2024-804258,2024-05-23,2024-05-25,Second Class,고객213,Olivia Martin,Home Office,United States,Seattle,Washington,78701,South,TEC-3443,Technology,Phones,Mobile Phone,1680.16,6,0.05,-417.28
+251,CA-2025-410401,2025-01-10,2025-01-16,First Class,고객575,Alex Johnson,Consumer,United States,Los Angeles,California,60601,East,FUR-5760,Furniture,Tables,Desk Lamp,1629.36,4,0.2,559.2
+252,CA-2025-795578,2025-01-26,2025-01-27,Standard Class,고객436,Sarah Wilson,Corporate,United States,Los Angeles,California,95101,Central,OFF-2522,Office Supplies,Storage,Shipping Labels,"$1,533.43",1,0.0,400.53
+253,CA-2023-601476,2023-04-27,2023-05-01,Same Day,고객764,Daniel Taylor,Consumer,United States,San Antonio,Texas,90001,West,FUR-1960,Furniture,Chairs,Office Chair,"$1,732.46",5,20%,284.02
+254,CA-2024-476018,2024-08-27,2024-08-31,Second Class,고객983,Michael Miller,Home Office,United States,San Jose,California,60601,South,OFF-8997,Office Supplies,Labels,Storage Box,1223.68,3,0.3,-27.1
+255,CA-2023-650311,2023-02-17,2023-02-18,Standard Class,고객785,Olivia Martin,Corporate,United States,Phoenix,Arizona,75201,East,OFF-8091,Office Supplies,Appliances,Ring Binder,1181.71,1,0.5,320.24
+256,CA-2023-742686,2023-12-21,2023-12-27,Second Class,고객111,MICHAEL MILLER,Consumer,United States,Austin,Texas,75201,South,OFF-9123,Office Supplies,Paper,Printer Paper,1157.4,3,0.3,330.13
+257,CA-2023-774567,2023-11-25,2023-11-27,Same Day,고객512,Olivia Martin,Consumer,United States,Philadelphia,Pennsylvania,90001,South,OFF-8277,Office Supplies,Art,Storage Box,1746.5,1,0.3,-203.25
+258,CA-2025-207629,2025-05-27,2025-05-31,Same Day,고객522,Alex Johnson,Home Office,United States,,California,75201,East,FUR-2489,Furniture,Tables,Wooden Bookcase,574.38,8,0.5,81.58
+259,CA-2024-448098,2024-11-18,2024-11-22,Same Day,고객833,Michael Miller,Corporate,United States,Philadelphia,Pennsylvania,98101,South,TEC-2868,Technology,Phones,Laptop Stand,659.11,1,0.05,169.12
+260,CA-2023-836201,2023-12-16,2023-12-19,Second Class,고객146,James Smith,Corporate,United States,Austin,Texas,60601,South,FUR-2752,Furniture,Tables,Wooden Bookcase,1736.27,5,0.3,
+261,CA-2023-893928,2023-05-04,2023-05-11,Same Day,고객147,Michael Miller,Home Office,United States,San Antonio,Texas,95101,East,FUR-8381,Furniture,Furnishings,Wooden Bookcase,394.34,4,0.5,-18.63
+262,CA-2023-633025,2023-01-05,2023-01-10,Standard Class,고객808,,Consumer,United States,Seattle,Washington,98101,West,OFF-2696,Office Supplies,Binders,Marker Set,$95.04,7,0.3,3.78
+263,CA-2023-386886,2023-11-26,2023-12-01,SAME DAY,고객451,David Lee,Corporate,United States,San Antonio,Texas,60601,West,TEC-7762,Technology,Machines,Mobile Phone,758.25,10,0.5,157.28
+264,CA-2024-404694,2024-12-29,2025-01-04,First Class,고객788,James Smith,Home Office,United States,Dallas,Texas,78701,West,OFF-9255,Office Supplies,Art,Shipping Labels,1141.59,4,0.05,142.13
+265,CA-2023-844618,2023-04-29,2023-05-06,Same Day,고객790,,Home Office,United States,  philadelphia  ,Pennsylvania,85001,South,TEC-1209,Technology,Phones,Wireless Mouse,1015.61,10,0.3,320.53
+266,CA-2023-816586,2023-05-29,2023-05-30,,고객249,,Consumer,United States,Austin,Texas,98101,Central,OFF-4342,Office Supplies,Art,Printer Paper,109.44,5,0.05,37.22
+267,CA-2025-688534,2025-04-13,2025-04-17,Same Day,고객343,Robert Davis,Home Office,United States,Los Angeles,California,85001,East,OFF-7251,Office Supplies,Binders,Storage Box,1112.07,9,0.05,217.35
+268,CA-2023-918859,2023-11-17,2023-11-22,Same Day,고객949,Priya Patel,Home Office,United States,New York,New York,98101,Central,TEC-9955,Technology,Accessories,Laptop Stand,31.23,5,0.05,3.82
+269,CA-2024-495521,2024-04-04,2024-04-06,Second Class,고객538,David Lee,Home Office,United States,Austin,Texas,85001,West,OFF-3636,Office Supplies,Art,Shipping Labels,141.45,3,0.5,8.25
+270,CA-2023-725874,12/05/2023,2023-12-09,Second Class,고객892,Michael Miller,Home Office,United States,Seattle,Washington,78701,Central,FUR-9037,Furniture,Tables,Office Chair,1687.99,1,0.05,518.51
+271,CA-2023-267112,2023-11-22,2023-11-27,Same Day,고객656,Robert Davis,Corporate,United States,Houston,Texas,90001,Central,TEC-4624,Technology,Accessories,Laser Printer,1722.92,9,0.0,382.07
+272,CA-2024-688602,2024-01-05,2024-01-08,Second Class,고객217,Michael Miller,Corporate,United States,Houston,Texas,92101,West,OFF-4994,Office Supplies,Labels,Shipping Labels,1710.95,10,0.3,59.74
+273,CA-2025-962043,2025-03-26,2025-03-27,First Class,고객626,Daniel Taylor,Home Office,United States,San Antonio,Texas,92101,South,OFF-1718,Office Supplies,Storage,Ring Binder,467.81,5,0.0,138.85
+274,CA-2024-168652,2024-06-10,2024-06-11,Standard Class,고객786,Michael Miller,Consumer,United States,Los Angeles,California,78701,South,OFF-2702,Office Supplies,Paper,Marker Set,307.97,9,0.3,-75.64
+275,CA-2025-124906,2025-06-18,2025-06-24,Same Day,고객834,Sarah Wilson,Consumer,United States,  san antonio  ,Texas,90001,East,TEC-1889,Technology,Accessories,Laser Printer,1166.64,2,0.5,188.56
+276,CA-2023-524094,2023-03-14,2023-03-19,SAME DAY,고객423,Alex Johnson,Corporate,United States,Houston,Texas,78701,East,TEC-9762,Technology,Phones,Mobile Phone,1640.49,7,0.2,33.92
+277,CA-2025-211291,02/13/2025,2025-02-19,First Class,고객905,Michael Miller,Corporate,United States,San Jose,California,95101,East,FUR-5612,Furniture,Furnishings,Conference Table,89.57,2,0.1,27.48
+278,CA-2025-509985,2025-04-21,2025-04-27,First Class,고객749,James Smith,Corporate,United States,New York,New York,78701,Central,OFF-1182,Office Supplies,Art,Marker Set,857.39,9,5%,-144.19
+279,CA-2023-189261,2023-05-07,2023-05-08,First Class,고객315,Ananya Rao,Home Office,United States,New York,New York,98101,Central,FUR-4469,Furniture,Furnishings,Wooden Bookcase,1034.31,7,0.3,81.21
+280,CA-2023-938504,2023-07-08,2023-07-10,Second Class,고객971,Daniel Taylor,Home Office,United States,San Jose,California,92101,East,FUR-5762,Furniture,Bookcases,Desk Lamp,1503.87,4,0.0,-212.32
+281,CA-2023-787313,2023-07-22,2023-07-28,Standard Class,고객202,David Lee,Home Office,United States,San Jose,California,90001,West,FUR-6206,Furniture,Furnishings,Conference Table,881.05,6,0.1,-152.48
+282,CA-2024-946934,2024-09-23,2024-09-29,,고객538,James Smith,Consumer,United States,Phoenix,Arizona,19103,West,OFF-4629,Office Supplies,Appliances,Storage Box,1250.68,3,0.3,112.71
+283,CA-2025-476167,2025-05-10,2025-05-13,First Class,고객598,Robert Davis,Consumer,United States,Chicago,Illinois,60601,East,OFF-5597,Office Supplies,Paper,Marker Set,1225.81,6,0.2,33.97
+284,CA-2023-762308,2023-09-27,2023-10-03,Second Class,고객932,Neha Joshi,Home Office,United States,  austin  ,Texas,78201,West,FUR-1600,Furniture,Tables,Conference Table,145.02,2,0.0,37.67
+285,CA-2025-240384,2025-03-04,2025-03-06,Same Day,고객613,Robert Davis,Consumer,United States,Philadelphia,Pennsylvania,78201,Central,TEC-9227,Technology,Phones,Laptop Stand,711.36,10,0.5,188.01
+286,CA-2024-693297,2024-12-01,2024-12-03,Standard Class,고객853,Ananya Rao,Corporate,United States,Dallas,Texas,19103,East,TEC-4585,Technology,Copiers,Laptop Stand,259.54,3,0.05,23.31
+287,CA-2023-478799,2023-09-28,2023-10-01,Same Day,고객580,Emily Brown,Consumer,United States,,Texas,10001,Central,FUR-2691,Furniture,,Desk Lamp,84.71,4,0.3,24.96
+288,CA-2024-976052,2024-07-11,2024-07-16,Second Class,고객629,David Lee,Corporate,United States,Chicago,Illinois,77001,South,TEC-6781,Technology,Machines,USB Keyboard,682.97,7,0.1,70.08
+289,CA-2024-639535,2024-09-10,2024-09-11,FIRST CLASS,고객316,James Smith,Consumer,United States,Dallas,Texas,60601,Central,OFF-2938,Office Supplies,Appliances,Ring Binder,1588.61,8,0.05,-177.93
+290,CA-2025-269078,2025-04-10,2025-04-13,Same Day,고객122,Priya Patel,Consumer,United States,Seattle,Washington,60601,West,OFF-3207,Office Supplies,Appliances,Marker Set,211.1,8,0.2,-26.09
+291,CA-2024-728471,2024-08-09,2024-08-11,Second Class,고객999,Ananya Rao,Home Office,United States,New York,New York,78701,Central,FUR-2404,Furniture,Chairs,Conference Table,306.08,3,0.3,99.46
+292,CA-2024-710948,2024-04-27,2024-05-04,Standard Class,고객738,Michael Miller,Home Office,United States,San Diego,California,85001,West,TEC-6614,Technology,Copiers,Mobile Phone,313.66,7,0.3,-51.56
+293,CA-2023-628859,2023-03-12,2023-03-14,Same Day,고객946,James Smith,Home Office,United States,San Antonio,Texas,90001,West,TEC-8796,Technology,Phones,Mobile Phone,698.75,2,0.0,-89.85
+294,CA-2025-101258,2025-02-09,2025-02-10,Same Day,고객634,AMIT SHAH,Corporate,United States,Los Angeles,California,10001,South,TEC-4759,Technology,Copiers,USB Keyboard,872.18,3,0.3,64.17
+295,CA-2024-366881,2024-08-26,2024-09-02,SAME DAY,고객884,Priya Patel,Consumer,United States,Seattle,Washington,85001,South,OFF-5223,Office Supplies,Paper,Printer Paper,"$1,634.88",10,0.0,
+296,CA-2025-786341,01/31/2025,2025-02-07,Standard Class,고객804,Daniel Taylor,Corporate,United States,New York,New York,78201,Central,TEC-2746,Technology,Accessories,USB Keyboard,1043.75,2,0.3,-256.43
+297,CA-2024-388946,2024-08-22,2024-08-25,Same Day,고객873,Priya Patel,Corporate,United States,Phoenix,Arizona,75201,South,TEC-3928,Technology,Machines,Mobile Phone,1540.12,7,0.3,-47.15
+298,CA-2024-791308,2024-05-10,2024-05-13,Second Class,고객865,Priya Patel,Corporate,United States,Phoenix,Arizona,98101,West,TEC-2642,Technology,Accessories,Mobile Phone,1043.15,7,0.5,-174.37
+299,CA-2025-766764,2025-03-15,2025-03-18,Second Class,고객923,Maria Garcia,Consumer,United States,Dallas,Texas,92101,South,OFF-2444,Office Supplies,,Shipping Labels,1108.33,1,0.05,-18.33
+300,CA-2024-646313,2024-01-15,2024-01-16,First Class,고객828,Neha Joshi,Consumer,United States,San Jose,California,60601,South,FUR-8192,Furniture,Bookcases,Wooden Bookcase,75.66,7,0.2,8.96
+191,CA-2023-327797,2023-08-07,2023-08-13,SECOND CLASS,고객202,James Smith,Consumer,United States,Seattle,Washington,95101,South,TEC-6759,Technology,Copiers,Laser Printer,279.26,7,0.3,45.22
+65,CA-2024-739098,2024-06-27,2024-07-01,Same Day,고객734,Michael Miller,Consumer,United States,San Jose,California,92101,West,FUR-4804,Furniture,Furnishings,Desk Lamp,1229.79,3,0.05,-178.27
+117,CA-2025-432427,2025-01-04,2025-01-10,Second Class,고객560,Emily Brown,Home Office,United States,San Diego,California,75201,Central,OFF-3102,Office Supplies,Art,Marker Set,950.05,7,0.3,-195.47
+126,CA-2025-520884,2025-03-24,2025-03-27,Second Class,고객146,Alex Johnson,Consumer,United States,Dallas,Texas,98101,Central,OFF-8761,Office Supplies,Art,Storage Box,1690.6,3,0.05,188.46
+262,CA-2023-633025,2023-01-05,2023-01-10,Standard Class,고객808,,Consumer,United States,Seattle,Washington,98101,West,OFF-2696,Office Supplies,Binders,Marker Set,95.04,7,0.3,3.78
+222,CA-2023-197627,2023-12-17,2023-12-19,First Class,고객708,Neha Joshi,Corporate,United States,San Antonio,Texas,98101,East,FUR-8066,Furniture,Chairs,Conference Table,296.34,2,0.3,93.38
+206,CA-2023-429287,2023-07-27,2023-07-29,Same Day,고객223,Robert Davis,Corporate,United States,San Jose,California,77001,South,FUR-6051,Furniture,Furnishings,Desk Lamp,203.28,2,0.05,4.01
+176,CA-2025-306647,2025-04-08,2025-04-15,Same Day,고객216,David Lee,Home Office,United States,Los Angeles,California,92101,Central,TEC-7367,Technology,Copiers,Mobile Phone,1042.61,9,0.05,-31.82
